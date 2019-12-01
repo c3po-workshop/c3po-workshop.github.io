@@ -10,8 +10,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-    - title: "Home"
-      url: /_pages/home
     - title: "Program"
       url: /_pages/program
     - title: "Call for Papers"
