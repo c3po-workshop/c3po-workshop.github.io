@@ -1,3 +1,0 @@
-# Call for Papers
-
-TBD
