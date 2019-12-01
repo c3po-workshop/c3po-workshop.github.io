@@ -22,7 +22,7 @@ subtitle                 : "Compiler-assisted Correctness Checking and Performan
 name                     : "Martin Ruefenacht"
 description              : ""
 url                      : "https://c3po-workshop.github.io"
-baseurl                  : # "/blog"
+baseurl                  : "/_pages/home"
 repository               : "c3po-workshop/c3po-workshop.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
