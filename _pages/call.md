@@ -50,7 +50,7 @@ or narrow application.
 
 ---
 ### Topics of interest include (but are not limited to):
-- Automatic Parallelization
+- Automatic parallelization
 - Compilation for heterogenous systems
 - Compiler enabled optimization
 - Correctness checking of parallel software

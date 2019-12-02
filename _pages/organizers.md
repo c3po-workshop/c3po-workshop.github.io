@@ -4,18 +4,16 @@ author_profile: false
 ---
 
 ### Chairs
-General Chair: Peter Pirkelbauer, Lawrence Livermore National Laboratory / University of Central Florida
 
-Associate Chair: Emmanuelle Saillard, Inria Bordeaux Sud-Ouest
-
-Publications Chair: Anthony Skjellum, University of Tennessee at Chattanooga
-
-Publicity Chair: Martin Ruefenacht, University of Edinburgh
-
-Track Chairs:
-- Purushotham Bangalore, University of Alabama at Birmingham
-- Julien Jaeger, French Alternative Energies and Atomic Energy Commission (CEA)
-- Peter Thoman, University of Innsbruck
+| Chair | Name | Affiliation |
+| ----: | ----| ----|
+| General | Peter Pirkelbauer | Lawrence Livermore National Laboratory / University of Central Florida |
+| Associate | Emmanuelle Saillard | Inria Bordeaux Sud-Ouest |
+| Publications | Anthony Skjellum | University of Tennessee at Chattanooga |
+| Publicity | Martin Ruefenacht | University of Edinburgh |
+| Track | Purushotham Bangalore | University of Alabama at Birmingham |
+| Track | Julien Jaeger | French Alternative Energies and Atomic Energy Commission (CEA) |
+| Track | Peter Thoman |  University of Innsbruck |
 
 ---
 
