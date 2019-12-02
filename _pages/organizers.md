@@ -3,7 +3,7 @@ layout: default
 author_profile: false
 ---
 
-### Chairs:
+### Chairs
 
 | Chair         | Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |
@@ -15,8 +15,8 @@ author_profile: false
 | Track         | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Track         | Peter Thoman          |  University of Innsbruck                                               |
 
-### Steering Commitee Members:
+### Steering Commitee Members
 To be determined.
 
-### Program Commitee Members:
+### Program Commitee Members
 To be determined.
