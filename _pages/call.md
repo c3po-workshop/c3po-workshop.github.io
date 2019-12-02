@@ -15,7 +15,6 @@ Frankfurt, Germany
 
 Held in conjunction with ISC 2020.
 
----
 ### Abstract
 Practical compiler-enabled programming environments, applied analysis
 methodologies, and end-to-end toolchains can contribute significantly to
@@ -48,7 +47,6 @@ applications of such technologies singly and in combination to derive enhanced
 utility in parallel programs that are generalizable beyond a single case study
 or narrow application.
 
----
 ### Topics of interest include (but are not limited to):
 - Automatic parallelization
 - Compilation for heterogenous systems
@@ -61,14 +59,12 @@ or narrow application.
 - Static analysis
 - Static/dynamic interaction
 
----
 ### Submission and publication
 There are two submission categories:
 
 - Full research papers
 - Short research papers
 
----
 ### Important Dates:
 - Paper Submissions, End of March
 - Paper Notification, Before Early-Bird deadline
