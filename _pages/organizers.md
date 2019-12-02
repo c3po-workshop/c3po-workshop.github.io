@@ -3,7 +3,7 @@ layout: default
 author_profile: false
 ---
 
-### Chairs
+### Chairs:
 
 | Chair         | Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |

@@ -12,7 +12,7 @@ main:
   #   url: /sitemap/
     - title: "Program"
       url: /_pages/program
-    - title: "Call for Papers"
+    - title: "Call for Submissions"
       url: /_pages/call
     - title: "Organizers"
       url: /_pages/organizers
