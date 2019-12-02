@@ -3,7 +3,7 @@ layout: default
 author_profile: false
 ---
 
-<p><p/>
+<p></p>
 
 ## Call for Papers
 
