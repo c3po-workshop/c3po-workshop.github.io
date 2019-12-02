@@ -17,8 +17,12 @@ Track Chairs:
 - Julien Jaeger, French Alternative Energies and Atomic Energy Commission (CEA)
 - Peter Thoman, University of Innsbruck
 
-### Steering Commitee Members
+---
+
+### Steering Commitee Members:
 To be determined.
 
-### Program Commitee Members
+---
+
+### Program Commitee Members:
 To be determined.
