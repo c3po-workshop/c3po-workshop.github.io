@@ -32,8 +32,7 @@ body {
 
 .initial-content,
 .search-content {
-  margin-left: 25%;
-  margin-right: 25%;
+  max-width: 900px;
   flex: 1 0 auto;
 }
 
