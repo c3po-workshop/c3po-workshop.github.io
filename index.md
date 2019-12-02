@@ -6,6 +6,7 @@ author_profile: false
 ### C3PO'20: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
 Held in conjunction with ISC 2020.
+![ISC2020](/assets/ISC2020_Logo.png)
 
 **Aim of workshop**
 
