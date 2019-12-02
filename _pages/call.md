@@ -3,7 +3,8 @@ layout: default
 author_profile: false
 ---
 
-<br/>
+<p><p/>
+
 ## Call for Papers
 
 C3PO'20 Workshop - Compiler-assisted Correctness Checking and Performance
