@@ -5,7 +5,7 @@ author_profile: false
 
 <p></p>
 
-## Call for Papers
+### Call for Papers
 
 C3PO'20 Workshop - Compiler-assisted Correctness Checking and Performance
 Optimization for HPC
@@ -16,7 +16,7 @@ Frankfurt, Germany
 Held in conjunction with ISC 2020.
 
 ---
-## Abstract
+### Abstract
 Practical compiler-enabled programming environments, applied analysis
 methodologies, and end-to-end toolchains can contribute significantly to
 performance portability in the exascale era. The practical and applied use of
@@ -49,7 +49,7 @@ utility in parallel programs that are generalizable beyond a single case study
 or narrow application.
 
 ---
-## Topics of interest include (but are not limited to):
+### Topics of interest include (but are not limited to):
 - Automatic Parallelization
 - Compilation for heterogenous systems
 - Compiler enabled optimization
@@ -62,14 +62,14 @@ or narrow application.
 - Static/dynamic interaction
 
 ---
-## Submission and publication
+### Submission and publication
 There are two submission categories:
 
 - Full research papers
 - Short research papers
 
 ---
-## Important Dates:
+### Important Dates:
 - Paper Submissions, End of March
 - Paper Notification, Before Early-Bird deadline
 - Final Camera Ready Version, Before ISC 2020
