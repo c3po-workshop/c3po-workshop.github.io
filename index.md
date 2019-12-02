@@ -7,7 +7,7 @@ author_profile: false
 
 Held in conjunction with ISC 2020.
 
-![ISC2020](/assets/ISC2020_Logo.png =300x)
+![ISC2020](/assets/ISC2020_Logo.png){:height="400px"}
 
 **Aim of workshop**
 
