@@ -38,7 +38,7 @@ hybrid-scaling solutions assisted, augmented, and/or enabled by compiler
 technology are in scope.  Topics of interest include but are not limited to:
 correctness checking of parallel programs, source-to-source translation of
 legacy MPI codes to improve performance-portability, instrumentation, and
-massively multipass FPGA compiler optimization strategies.  
+massively multipass FPGA compiler optimization strategies.
 
 We recognize that there are standard static analysis technologies (dataflow
 analysis, polyhedral analysis, etc); this workshop seeks innovative
@@ -67,4 +67,5 @@ There are two submission categories:
 ### Important Dates
 - Paper Submissions, End of March
 - Paper Notification, Before Early-Bird deadline
-- Final Camera Ready Version, Before ISC 2020
+- Pre-Conference Version, Before ISC 2020
+- Final Camera Ready Version, After ISC 2020
