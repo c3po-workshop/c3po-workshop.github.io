@@ -18,7 +18,7 @@ BANNER
 
 Held in conjunction with ISC 2020.
 
-![ISC2020](/assets/ISC2020_Logo.png){:max-height="200px"}
+![ISC2020](/assets/ISC2020_Logo.png){:max-width="300px" height="auto"}
 
 _Aim of Workshop_
 
