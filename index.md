@@ -34,4 +34,4 @@ _Aim of Workshop_
 To be determined.
 
 ### Contact
-For queries relating to the workshop, please contact Martin Ruefenacht (m.a.ruefenacht at gmail.com).
+For queries relating to the workshop, please contact Martin Ruefenacht (m.ruefenacht at ed.ac.uk).
