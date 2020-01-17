@@ -18,7 +18,8 @@ BANNER
 
 Held in conjunction with ISC 2020.
 
-![ISC2020](/assets/ISC2020_Logo.png){:max-width="300px" height="auto"}
+![ISC2020](/assets/ISC2020_Logo.png){:max-width="300px" height="auto" .align-right}
+{:style="clear: right"}
 
 _Aim of Workshop_
 
@@ -26,7 +27,7 @@ _Aim of Workshop_
 
 - Submission deadline for publications: End of March
 - Publication notifications: TBD
-- Pre-conference version: TBtD
+- Pre-conference version: TBD
 - Final camera-ready version: TBD
 
 ### Submission Website
