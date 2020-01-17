@@ -10,9 +10,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # TODO back to home
+    - title: "Home"
+      url: /index
     - title: "Program"
       url: /_pages/program
     - title: "Call for Submissions"
       url: /_pages/call
-    - title: "Organizers"
-      url: /_pages/organizers
+    - title: "Organization"
+      url: /_pages/organization
