@@ -12,13 +12,13 @@ author_profile: false
 BANNER
 --->
 
-![Banner](/assets/banner.jpg){:height="auto" max-width="100%"}
+![Banner](/assets/banner.jpg){:height="auto" width="100%"}
 
 ### C3PO'20: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
 Held in conjunction with ISC 2020.
 
-![ISC2020](/assets/ISC2020_Logo.png){:max-width="300px" height="auto" .align-right}
+![ISC2020](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
 {:style="clear: right"}
 
 _Aim of Workshop_
