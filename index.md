@@ -7,7 +7,7 @@ author_profile: false
 BANNER
 --->
 
-![Banner](/assets/banner.png){:height="400px"}
+![Banner](/assets/banner.png){:height="auto" max-width="100%"}
 
 ### C3PO'20: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
