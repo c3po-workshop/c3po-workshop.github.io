@@ -50,7 +50,7 @@ or narrow application.
 - Automatic parallelization
 - Compilation for heterogenous systems
 - Compiler enabled optimization
-- Correctness checking of parallel software
+- Compilation techniques for correctness checking of parallel software
 - Cross-languages translation
 - Modernization of legacy codes
 - Source code instrumentation
