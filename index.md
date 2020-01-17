@@ -12,7 +12,11 @@ Held in conjunction with ISC 2020.
 **Aim of workshop**
 
 ### Important Dates
-To be determined.
+
+- Submission deadline for publications: End of March
+- Publication notifications: TBD
+- Pre-conference version: TBD
+- Final camera-ready version: TBD
 
 ### Submission Website
 To be determined.
