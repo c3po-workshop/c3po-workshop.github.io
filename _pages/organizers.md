@@ -19,4 +19,20 @@ author_profile: false
 To be determined.
 
 ### Program Commitee Members
-To be determined.
+| Name                | Affiliation
+| ------------------: | ----------------------------------------
+| Hadia Ahmed         |  Lawrence Berkeley National Laboratory
+| Ritu Arora          |  Texas Advanced Computing Center
+| Protonu Basu        |  Facebook
+| Ira Baxter          |  Semantic Design
+| Elisabeth Brunet    |  Telecom Sud Paris
+| Patrick Carribault  |  CEA
+| Thomas Fahringer    |  University of Innsbruck
+| Chunhua Liao        |  Lawrence Livermore National Laboratory
+| Reed Milewicz       |  Sandia National Laboratories
+| Christina Peterson  |  University of Central Florida
+| Amalee Wilson       |  Stanford University
+| Sara Royuela        |  Barcelona Supercomputing Center
+| Muite Benson        |  Kichakato Kizito
+| Joachim Protze      |  RWTH Aachen University
+| Markus Schordan     |  Lawrence Livermore National Laboratory
