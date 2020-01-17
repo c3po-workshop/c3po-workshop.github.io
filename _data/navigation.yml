@@ -11,7 +11,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   # TODO back to home
-    - title: "Home"
+    - title: "Workshop"
       url: /index
     - title: "Program"
       url: /_pages/program

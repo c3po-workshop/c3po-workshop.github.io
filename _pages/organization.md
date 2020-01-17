@@ -3,6 +3,14 @@ layout: default
 author_profile: false
 ---
 
+### Venue
+
+Messe Frankfurt
+Brüsseler Strasse
+60327 Frankfurt am Main
+
+Room: TBD
+
 ### Chairs
 
 | Chair         | Name                  | Affiliation                                                            |
@@ -15,8 +23,10 @@ author_profile: false
 | Track         | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Track         | Peter Thoman          |  University of Innsbruck                                               |
 
+<!---
 ### Steering Commitee Members
 To be determined.
+--->
 
 ### Program Commitee Members
 
@@ -37,3 +47,4 @@ To be determined.
 | Muite Benson        |  Kichakato Kizito                               |
 | Joachim Protze      |  RWTH Aachen University                         |
 | Markus Schordan     |  Lawrence Livermore National Laboratory (LLNL)  |
+| Prema Soundararajan |  University of Alabama at Birmingham            |
