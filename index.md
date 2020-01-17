@@ -4,6 +4,11 @@ author_profile: false
 ---
 
 <!---
+
+
+--->
+
+<!---
 BANNER
 --->
 
@@ -15,13 +20,13 @@ Held in conjunction with ISC 2020.
 
 ![ISC2020](/assets/ISC2020_Logo.png){:height="200px"}
 
-**Aim of workshop**
+_Aim of Workshop_
 
 ### Important Dates
 
 - Submission deadline for publications: End of March
 - Publication notifications: TBD
-- Pre-conference version: TBD
+- Pre-conference version: TBtD
 - Final camera-ready version: TBD
 
 ### Submission Website
