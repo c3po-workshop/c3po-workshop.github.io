@@ -32,7 +32,7 @@ To be determined.
 
 | Name                | Affiliation                                     |
 | ------------------: | ----------------------------------------------- |
-| Hadia Ahmed         |  Lawrence Berkeley National Laboratory (LLNL)   |
+| Hadia Ahmed         |  Lawrence Berkeley National Laboratory (LBL)    |
 | Ritu Arora          |  Texas Advanced Computing Center (TACC)         |
 | Protonu Basu        |  Facebook                                       |
 | Ira Baxter          |  Semantic Design                                |
