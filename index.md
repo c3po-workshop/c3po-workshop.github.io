@@ -21,7 +21,10 @@ Held in conjunction with ISC 2020.
 ![ISC2020](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
 {:style="clear: right"}
 
-_Aim of Workshop_
+The goal of the C3PO workshop is to bring together a diverse group of
+researchers to discuss their latest research results on compilation techniques
+for solving HPC challenges. The workshop will feature contributed papers and
+invited talks in this area.
 
 ### Important Dates
 
