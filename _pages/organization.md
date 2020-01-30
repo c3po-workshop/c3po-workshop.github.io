@@ -24,11 +24,11 @@ Room: TBD
 | Track         | Peter Thoman          |  University of Innsbruck                                               |
 
 <!---
-### Steering Commitee Members
+### Steering Committee Members
 To be determined.
 --->
 
-### Program Commitee Members
+### Program Committee Members
 
 | Name                | Affiliation                                     |
 | ------------------: | ----------------------------------------------- |
