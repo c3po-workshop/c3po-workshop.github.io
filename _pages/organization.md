@@ -44,7 +44,7 @@ To be determined.
 | Christina Peterson      |  University of Central Florida                  |
 | Amalee Wilson           |  Stanford University                            |
 | Sara Royuela            |  Barcelona Supercomputing Center (BSC)          |
-| Muite Benson            |  Kichakato Kizito                               |
+| Benson Muite            |  Kichakato Kizito                               |
 | Joachim Protze          |  RWTH Aachen University                         |
 | Markus Schordan         |  Lawrence Livermore National Laboratory (LLNL)  |
 | Prema Soundararajan     |  University of Alabama at Birmingham            |
