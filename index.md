@@ -35,5 +35,13 @@ invited talks in this area.
 
 [Submission Website](https://easychair.org/my/conference?conf=c3po)
 
+### Venue
+
+Messe Frankfurt  
+Brüsseler Strasse  
+60327 Frankfurt am Main  
+
+<!---Room: TBD--->
+
 ### Contact
 For queries relating to the workshop, please contact Martin Ruefenacht (m.ruefenacht at ed.ac.uk).

@@ -3,14 +3,6 @@ layout: default
 author_profile: false
 ---
 
-### Venue
-
-Messe Frankfurt  
-Brüsseler Strasse  
-60327 Frankfurt am Main  
-
-Room: TBD
-
 ### Chairs
 
 | Chair         | Name                  | Affiliation                                                            |
