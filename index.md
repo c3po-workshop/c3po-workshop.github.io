@@ -28,13 +28,12 @@ invited talks in this area.
 
 ### Important Dates
 
-- Submission deadline for publications: End of March
-- Publication notifications: TBD
-- Pre-conference version: TBD
-- Final camera-ready version: TBD
+- Submission deadline for publications: April 8th, 2020
+- Publication notifications: May 1st, 2020
+- Pre-conference version: May 31st, 2020
+- Final camera-ready version: July 5th, 2020
 
-### Submission Website
-To be determined.
+[Submission Website](https://easychair.org/my/conference?conf=c3po)
 
 ### Contact
 For queries relating to the workshop, please contact Martin Ruefenacht (m.ruefenacht at ed.ac.uk).
