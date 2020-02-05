@@ -15,7 +15,9 @@ Held in conjunction with ISC 2020.
 
 Compiler-assisted Correctness Checking and Performance Optimization for HPC (C3PO) workshop
 co-located with ISC.
+
 Frankfurt, Germany
+
 June 25 2020
 
 ### Abstract
