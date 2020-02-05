@@ -4,15 +4,22 @@ author_profile: false
 ---
 
 ### Call for Submissions
-
+<!---
 C3PO'20 Workshop - Compiler-assisted Correctness Checking and Performance
 Optimization for HPC  
 Thursday, June 25th, 2020  
 Frankfurt, Germany  
 
 Held in conjunction with ISC 2020.
+--->
+
+Compiler-assisted Correctness Checking and Performance Optimization for HPC (C3PO) workshop
+co-located with ISC.
+Frankfurt, Germany
+June 25 2020
 
 ### Abstract
+<!---
 Practical compiler-enabled programming environments, applied analysis
 methodologies, and end-to-end toolchains can contribute significantly to
 performance portability in the exascale era. The practical and applied use of
@@ -43,8 +50,30 @@ analysis, polyhedral analysis, etc); this workshop seeks innovative
 applications of such technologies singly and in combination to derive enhanced
 utility in parallel programs that are generalizable beyond a single case study
 or narrow application.
+--->
+
+C3PO is a new workshop at the intersection of compilers/translators, HPC
+middleware, and HPC applications. Practical compiler-enabled programming
+environments, applied analysis methodologies, and end-to-end toolchains are
+crucial to performance portability in the exascale era. The workshop brings
+together researchers with a shared interest in applying compilation and
+source-to-source translation methodologies to enhance parallel programming,
+including explicit programming models such as MPI, OpenMP, and hybrid models.
+
+Original papers will identify and solve challenges in the tradeoffs of
+scalability, performance, predictability, correctness, productivity, and
+portability on-node and at massive scale. Strong-scaling, weak-scaling, and
+hybrid-scaling solutions assisted, augmented, and/or enabled by compiler
+technology are in scope.
+
+We recognize that there are standard static analysis technologies (dataflow
+analysis, polyhedral analysis, etc); this workshop seeks innovative
+applications of such technologies to derive enhanced utility in parallel
+programs that are generalizable beyond a single case study or narrow
+application.
 
 ### Topics of Interest (but not limited to)
+<!---
 - Automatic parallelization
 - Compilation for heterogenous systems
 - Compiler enabled optimization
@@ -55,15 +84,38 @@ or narrow application.
 - Source-to-source analysis/transformations
 - Static analysis
 - Static/dynamic interaction
+--->
+- Automatic parallelization
+- Compilation for heterogeneous systems
+- Compiler enabled optimization
+- Compilation techniques for correctness checking of parallel software
+- Cross-languages translation
+- Modernization of legacy codes
+- Source code instrumentation
+- Source-to-source analysis/transformations
+- Static analysis
+- Static/dynamic interaction
 
-### Submissions and Publication
-There are two submission categories:
+### Submissions
+C3PO solicits two kinds of papers. Full papers present novel and original
+research and are limited to 12 pages in Springer LNCS format. Short papers
+report on interesting new ideas, work with promising/early results, or
+empirical studies and are limited to 6 pages in Springer LNCS format.
 
-- Full research papers
-- Short research papers
+The review process is double blind. Each submission will receive at least three
+reviews.
+
+Papers must be submitted in PDF format on the submission website. The
+organizers will make informal proceedings available online before the
+conference. Authors may submit a revised version of the paper after the
+workshop for printed proceedings. Authors of accepted papers will be required
+to sign the Springer copyright form. Instructions for preparing papers for the
+proceedings will be emailed to authors of accepted papers.
+
+[Submission Website](https://easychair.org/my/conference?conf=c3po)
 
 ### Important Dates
-- Paper Submissions, End of March
-- Paper Notification, Before Early-Bird deadline
-- Pre-Conference Version, Before ISC 2020
-- Final Camera Ready Version, After ISC 2020
+- Paper Submissions, April 8th, 2020
+- Paper Notification, May 1st, 2020
+- Pre-Conference Version, May 31st, 2020
+- Camera Ready Version, July 5th, 2020
