@@ -44,4 +44,4 @@ Brüsseler Strasse
 <!---Room: TBD--->
 
 ### Contact
-For queries relating to the workshop, please contact Martin Ruefenacht (m.ruefenacht at ed.ac.uk).
+For queries relating to the workshop, please contact Peter Pirkelbauer (pirkelbauer2 at llnl.gov) or Emmanuelle Saillard (emmanuelle.saillard at inria.fr).
