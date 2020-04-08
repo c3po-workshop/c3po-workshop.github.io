@@ -30,7 +30,7 @@ invited talks in this area.
 
 ### Important Dates
 
-- Submission deadline for publications: April 15th, 2020 (AoE)
+- Submission deadline for publications: ~~April 8th~~ **April 15th, 2020 (AoE)** [Extended deadline]
 - Publication notifications: May 1st, 2020
 - Pre-conference version: May 31st, 2020
 - Final camera-ready version: July 5th, 2020
