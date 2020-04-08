@@ -18,7 +18,7 @@ BANNER
 
 Held in conjunction with ISC 2020.
 
-<span style="color:red">**Even with ISC being now a virtual even due to the covid-19, ISC organizers still plan to publish Workshop Proceedings with Springer’s Lecture Notes in Computer Science (LNCS).**</span>
+<span style="color:red">**Even with ISC being now a virtual event due to the covid-19, ISC organizers still plan to publish Workshop Proceedings with Springer’s Lecture Notes in Computer Science (LNCS).**</span>
 
 ![ISC2020](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
 {:style="clear: right"}
