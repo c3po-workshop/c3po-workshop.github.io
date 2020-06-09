@@ -4,7 +4,7 @@ author_profile: false
 ---
 
 ## Keynote Speaker
-(chair: Julien Jaeger) \\
+Chair: Julien Jaeger \\
 **June 25th, 2020, 5pm CEST, 8am PDT**
 
 Speaker: **Chuanhua (Leo) Liao (LLNL)**
@@ -16,8 +16,8 @@ Computational scientists face numerous challenges when trying to exploit powerfu
 
 ## Sessions
 
-### Session on Correctness \\
-(chair: Peter Thoman) \\
+### Session on Correctness
+Chair: Peter Thoman \\
 **June 25th, 2020, 6pm CEST, 9am PDT**
 
 **Jan Patrick Lehr (TU Darmstadt) - Compiler-assisted type-safe checkpointing** \\
@@ -29,8 +29,8 @@ The 2019 MPI standard draft specification includes the addition of defined commu
 ---
 ---
 
-### Session on Optimizations\\
-(chair: Purushotham Bangalore) \\
+### Session on Optimizations
+Chair: Purushotham Bangalore \\
 **June 25th, 2020, 7pm CEST, 10am PDT**
 
 **Van-Man Nguyen (CEA) - Automatic Code Motion to Extend MPI Nonblocking Overlap Window** \\
