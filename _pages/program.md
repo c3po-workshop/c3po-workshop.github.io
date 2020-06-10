@@ -3,6 +3,8 @@ layout: default
 author_profile: false
 ---
 
+[Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+
 ## Keynote Speaker
 Chair: Julien Jaeger \\
 **June 25th, 2020, 5pm CEST, 8am PDT**
