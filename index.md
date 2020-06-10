@@ -28,6 +28,8 @@ researchers to discuss their latest research results on compilation techniques
 for solving HPC challenges. The workshop will feature contributed papers and
 invited talks in this area.
 
+[Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+
 ### Important Dates
 
 - Submission deadline for publications: ~~April 8th~~ **April 15th, 2020 (AoE)** [Extended deadline]
