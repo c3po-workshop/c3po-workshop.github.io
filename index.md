@@ -28,7 +28,11 @@ researchers to discuss their latest research results on compilation techniques
 for solving HPC challenges. The workshop will feature contributed papers and
 invited talks in this area.
 
-[Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+### Registration
+
+Registration is FREE and open for everyone interested, and users need to sign up at this [link](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+
+We will use [c3poworkshop.slack.com](https://join.slack.com/t/c3poworkshop/shared_invite/zt-f9p66mjk-bXcUtAf6KCWaiJiNrXi15g) for communication during the event. 
 
 ### Important Dates
 
@@ -40,12 +44,8 @@ invited talks in this area.
 [Submission Website](https://easychair.org/my/conference?conf=c3po)
 
 ### Venue
+Zoom Web conference: The Zoom link will be published shortly before the event. 
 
-Messe Frankfurt  
-Brüsseler Strasse  
-60327 Frankfurt am Main  
-
-<!---Room: TBD--->
 
 ### Contact
 For queries relating to the workshop, please contact Peter Pirkelbauer (pirkelbauer2 at llnl.gov) or Emmanuelle Saillard (emmanuelle.saillard at inria.fr).
