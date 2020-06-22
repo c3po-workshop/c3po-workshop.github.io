@@ -44,7 +44,7 @@ We will use [c3poworkshop.slack.com](https://join.slack.com/t/c3poworkshop/share
 [Submission Website](https://easychair.org/my/conference?conf=c3po)
 
 ### Venue
-Zoom Web conference: The Zoom link will be published shortly before the event. 
+Zoom Web conference: The Zoom link will be emailed to the registered particpants shortly before the event. 
 
 
 ### Contact
