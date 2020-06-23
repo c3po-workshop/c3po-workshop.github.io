@@ -32,7 +32,7 @@ invited talks in this area.
 
 Registration is FREE and open for everyone interested, and users need to sign up at this [link](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
 
-We will use [c3poworkshop.slack.com](https://join.slack.com/t/c3poworkshop/shared_invite/zt-f9p66mjk-bXcUtAf6KCWaiJiNrXi15g) for communication during the event. 
+We will use the zoom chat for communication during the event. 
 
 ### Important Dates
 
