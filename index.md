@@ -34,6 +34,8 @@ Registration is FREE and open for everyone interested, and users need to sign up
 
 We will use the zoom chat for communication during the event. 
 
+[Recording](https://www.youtube.com/playlist?list=PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY)
+
 ### Important Dates
 
 - Submission deadline for publications: ~~April 8th~~ **April 15th, 2020 (AoE)** [Extended deadline]
