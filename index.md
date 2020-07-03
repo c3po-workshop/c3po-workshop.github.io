@@ -28,10 +28,6 @@ researchers to discuss their latest research results on compilation techniques
 for solving HPC challenges. The workshop will feature contributed papers and
 invited talks in this area.
 
-### Recording
-
-The recordings of all sessions are available [here](https://www.youtube.com/playlist?list=PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY).
-
 ### Registration
 
 Registration is FREE and open for everyone interested, and users need to sign up at this [link](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
