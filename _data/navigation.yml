@@ -13,8 +13,8 @@ main:
   # TODO back to home
     - title: "Workshop"
       url: /index
-    - title: "Presentations"
-      url: /_pages/presentations
+      #  - title: "Presentations"
+      #    url: /_pages/presentations
     - title: "Program"
       url: /_pages/program
     - title: "Call for Submissions"

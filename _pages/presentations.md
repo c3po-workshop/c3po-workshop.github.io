@@ -22,5 +22,3 @@ The recordings of all sessions are available [here](https://www.youtube.com/play
 
 
 [**Adrian Munera Sanchez (BSC) - Static analysis to enhance programmability and performance in OmpSs-2**](static_analysis_to_enhance_programmability_and_performance_in_ompss.pdf)
-
-
