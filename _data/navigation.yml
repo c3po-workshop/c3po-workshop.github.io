@@ -19,7 +19,7 @@ main:
       url: /_pages/program
     - title: "Call for Submissions"
       url: /_pages/call
-    - title: "Sponsors"
-      url: /_pages/sponsors
+      #    - title: "Sponsors"
+      #      url: /_pages/sponsors
     - title: "Organization"
       url: /_pages/organization

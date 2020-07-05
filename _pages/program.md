@@ -3,7 +3,8 @@ layout: default
 author_profile: false
 ---
 
-[Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+<!-- [Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
+-->
 
 ### Recordings
 
