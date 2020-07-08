@@ -18,8 +18,8 @@ main:
     - title: "Program"
       url: /2020/program
     - title: "Call for Submissions"
-      url: /_pages/call
+      url: /2020/call
       #    - title: "Sponsors"
       #      url: /_pages/sponsors
     - title: "Organization"
-      url: /_pages/organization
+      url: /2020/organization
