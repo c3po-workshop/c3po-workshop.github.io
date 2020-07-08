@@ -1,7 +1,17 @@
 ---
 layout: default
 author_profile: false
+permalink: /2020/index
 ---
+
+<!---
+
+
+--->
+
+<!---
+BANNER
+--->
 
 ![Banner](/assets/banner.jpg){:height="auto" width="100%"}
 
