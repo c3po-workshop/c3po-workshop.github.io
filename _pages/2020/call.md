@@ -1,6 +1,4 @@
 ---
-layout: default
-author_profile: false
 permalink: /2020/call
 ---
 
