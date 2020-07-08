@@ -16,7 +16,7 @@ main:
       #  - title: "Presentations"
       #    url: /_pages/presentations
     - title: "Program"
-      url: /:year/program
+      url: /2020/program
     - title: "Call for Submissions"
       url: /_pages/call
       #    - title: "Sponsors"
