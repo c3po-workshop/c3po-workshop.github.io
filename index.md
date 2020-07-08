@@ -2,6 +2,8 @@
 redirect_to: /2020/index
 ---
 
+<!--
+
 ![Banner](/assets/banner.jpg){:height="auto" width="100%"}
 
 This is the base one.
@@ -42,3 +44,5 @@ Zoom Web conference: The Zoom link will be emailed to the registered participant
 
 ### Contact
 For queries relating to the workshop, please contact Peter Pirkelbauer (pirkelbauer2 at llnl.gov) or Emmanuelle Saillard (emmanuelle.saillard at inria.fr).
+
+-->
