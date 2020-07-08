@@ -5,9 +5,8 @@ permalink: /2020/program
 <!-- [Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
 -->
 
-### Recordings
-
 The recordings of all sessions are available [here](https://www.youtube.com/playlist?list=PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY).
+{: .notice--info}
 
 ## Keynote Speaker
 Chair: Julien Jaeger \\
