@@ -4,22 +4,21 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-  # TODO back to home
+
     - title: "Workshop"
       url: /index
-      #  - title: "Presentations"
-      #    url: /_pages/presentations
+
     - title: "Program"
       url: /2020/program
+
     - title: "Call for Submissions"
       url: /2020/call
-      #    - title: "Sponsors"
-      #      url: /_pages/sponsors
+
+#    - title: "Sponsors"
+#      url: /2020/sponsors
+
     - title: "Organization"
       url: /2020/organization
+
+    - title: "History"
+      url: /history
