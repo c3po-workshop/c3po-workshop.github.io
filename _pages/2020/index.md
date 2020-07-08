@@ -8,7 +8,8 @@ permalink: /2020/index
 
 Held in conjunction with ISC 2020.
 
-<span style="color:red">**Even with ISC being now a virtual event due to the COVID-19, ISC organizers still plan to publish Workshop Proceedings with Springer’s Lecture Notes in Computer Science (LNCS).**</span>
+{: .notice--danger} class.
+**Even with ISC being now a virtual event due to the COVID-19, ISC organizers still plan to publish Workshop Proceedings with Springer’s Lecture Notes in Computer Science (LNCS).**
 
 ![ISC2020](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
 {:style="clear: right"}
