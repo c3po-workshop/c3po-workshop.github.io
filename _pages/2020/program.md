@@ -25,7 +25,7 @@ Computational scientists face numerous challenges when trying to exploit powerfu
 Chair: Peter Thoman \\
 **June 25th, 2020, 6pm CEST, 9am PDT**
 
-[**Jan Patrick Lehr (TU Darmstadt) - Compiler-assisted type-safe checkpointing**](/presentations/compiler_assisted_type_safe_checkpointing.pdf) \\
+[**Jan Patrick Lehr (TU Darmstadt) - Compiler-assisted type-safe checkpointing**](/presentations/2020/compiler_assisted_type_safe_checkpointing.pdf) \\
 TyCart is a tool for type-safe checkpoint/restart and extends the memory allocation sanitizer tool TypeART with type asserts. Type asserts let the developer specify type requirements on memory regions, and, in our example implementation, they are used to implement a typesafe interface for the existing checkpoint libraries FTI and VeloC. We evaluate our approach on a set of mini-apps, and an application from astrophysics. The approach shows runtime and memory overhead below 5% in smaller benchmarks. In the astrophysics application, the runtime overhead reaches 30% and the memory overhead 70%.
 
 [**Tim Jammer (TU Darmstadt) - Automatic detection of MPI assertions**](/presentations/2020/automatic_detection_of_mpi_assertions.pdf) \\
