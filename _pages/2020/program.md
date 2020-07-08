@@ -9,6 +9,8 @@ permalink: /2020/program
 
 The recordings of all sessions are available [here](https://www.youtube.com/playlist?list=PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY).
 
+{% include video id="PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY" provider="youtube" %}
+
 ## Keynote Speaker
 Chair: Julien Jaeger \\
 **June 25th, 2020, 5pm CEST, 8am PDT**
