@@ -17,6 +17,8 @@ Chair: Julien Jaeger \\
 TODO is there a way to have the datetime timezone adjusted to the users locale and automatically shown correctly?
 
 The calendar invites circumvents the issue but would still be good to have!
+
+ics files + google calendar invite
 -->
 
 [**Chunhua (Leo) Liao (LLNL) - Building Source-to-Source Tools for High-Performance Computing**](/presentations/2020/building_source-to-source_tools_for_hpc.pdf)
