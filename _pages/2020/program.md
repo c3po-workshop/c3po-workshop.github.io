@@ -17,6 +17,8 @@ Chair: Julien Jaeger \\
 
 Computational scientists face numerous challenges when trying to exploit powerful and complex high-performance computing (HPC) platforms. These challenges arise in multiple aspects including productivity, performance, correctness and so on. In this talk, I will introduce a source-to-source approach to addressing HPC challenges. Our work is based on a unique compiler framework named ROSE. Developed at Lawrence Livermore National Laboratory, ROSE encapsulates advanced compiler analysis and optimization technologies into easy-to-use library APIs so developers can quickly build customized program analysis and transformation tools for C/C++/Fortran and OpenMP programs. Several example tools will be introduced, including the AST inliner, outliner, and a variable move tool. I will also briefly mention ongoing work related to benchmarks, composable tools, and training for compiler/tool developers.
 
+---
+
 ## Sessions
 
 ### Session on Correctness
@@ -33,7 +35,6 @@ TyCart is a tool for type-safe checkpoint/restart and extends the memory allocat
 
 The 2019 MPI standard draft specification includes the addition of defined communicator info hints. These hints are assertions that an application makes to an MPI implementation, so that a more optimized implementation is possible. The 2019 draft specifications defines four assertions: mpi_assert_no_any_tag, mpi_assert_no_any_source, mpi_assert_exact_length and mpi_assert_allow_overtaking. In this paper we will explore the capability of a Clang/LLVM based static analysis to check whether these assertions hold for a given program. With this tool, existing codebases can benefit from this new addition to the MPI standard without the need for costly human intervention.
 
----
 ---
 
 ### Session on Optimizations
