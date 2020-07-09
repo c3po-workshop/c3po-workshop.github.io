@@ -15,7 +15,7 @@ Chair: Julien Jaeger \\
 [**Chunhua (Leo) Liao (LLNL) - Building Source-to-Source Tools for High-Performance Computing**](/presentations/2020/building_source-to-source_tools_for_hpc.pdf)
 <a href="https://youtu.be/IZp_4enKg7U" target="_blank"><img src="/assets/video.jpg" alt="recording" width="20" height="20" border="0" /></a>
 
-<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzdpaGs1cWNyYm91aGQ5MGcyY2oxaXJlcjYgbS5hLnJ1ZWZlbmFjaHRAbQ&amp;tmsrc=m.a.ruefenacht%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en-GB.gif"></a>
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NzdpaGs1cWNyYm91aGQ5MGcyY2oxaXJlcjYgbS5hLnJ1ZWZlbmFjaHRAbQ&amp;tmsrc=m.a.ruefenacht%40gmail.com"><img border="0" src="/assets/calendar.jpg"></a>
 
 Computational scientists face numerous challenges when trying to exploit powerful and complex high-performance computing (HPC) platforms. These challenges arise in multiple aspects including productivity, performance, correctness and so on. In this talk, I will introduce a source-to-source approach to addressing HPC challenges. Our work is based on a unique compiler framework named ROSE. Developed at Lawrence Livermore National Laboratory, ROSE encapsulates advanced compiler analysis and optimization technologies into easy-to-use library APIs so developers can quickly build customized program analysis and transformation tools for C/C++/Fortran and OpenMP programs. Several example tools will be introduced, including the AST inliner, outliner, and a variable move tool. I will also briefly mention ongoing work related to benchmarks, composable tools, and training for compiler/tool developers.
 
