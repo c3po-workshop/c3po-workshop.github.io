@@ -12,7 +12,6 @@ The recordings of all sessions are available [here](https://www.youtube.com/play
 ## Keynote Speaker
 Chair: Julien Jaeger \\
 <!--**June 25th, 2020, 5pm CEST, 8am PDT**-->
-
 <script>
     var d = new Date();
     d.setUTCFullYear(2020);
