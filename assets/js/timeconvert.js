@@ -19,7 +19,7 @@ function getTimezoneName() {
 }
 
 function myDateTime(datetime) {
-    var st = datetime.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}) + " " + getTimezoneName() + "<br>" + datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}) + " UTC"
+    var st = "<b>" + datetime.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}) + " " + getTimezoneName() + "<br>" + datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}) + " UTC</b>"
 
-    document.write(st.bold());
+    document.write(st);
 }
