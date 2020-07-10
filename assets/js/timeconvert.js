@@ -20,6 +20,6 @@ function getTimezoneName() {
 
 function myDateTime(datetime) {
     document.write(datetime.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}) + " " + getTimezoneName());
-    document.write("\n");
+    document.write("<br>");
     document.write(datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}) + " UTC");
 }

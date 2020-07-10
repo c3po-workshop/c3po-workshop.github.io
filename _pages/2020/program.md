@@ -13,7 +13,8 @@ Chair: Julien Jaeger \\
 <!--**June 25th, 2020, 5pm CEST, 8am PDT**-->
 
 <script type="text/javascript" src="/assets/js/timeconvert.js"></script>
-**<script>
+**
+<script>
     var d = new Date();
     d.setUTCFullYear(2020);
     d.setUTCMonth(5);
@@ -24,7 +25,8 @@ Chair: Julien Jaeger \\
     d.setUTCMilliseconds(0);
 
     myDateTime(d);
-</script>**
+</script>
+**
 
 <!--
 15:00 UTC, 2020-06-25
