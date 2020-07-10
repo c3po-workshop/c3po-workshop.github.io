@@ -1,3 +1,3 @@
 function myDateTime() {
-    return new Date();
+    document.write("hello");
 }
