@@ -4,6 +4,7 @@ permalink: /2020/program
 
 <!-- [Registration](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)
 -->
+<script type="text/javascript" src="/assets/js/timeconvert.js"></script>
 
 The recordings of all sessions are available [here](https://www.youtube.com/playlist?list=PLMa5JEpVE7Jxi6iHPH2kQJFzGN_Yx4ypY).
 {: .notice--info}
@@ -12,8 +13,6 @@ The recordings of all sessions are available [here](https://www.youtube.com/play
 Chair: Julien Jaeger \\
 <!--**June 25th, 2020, 5pm CEST, 8am PDT**-->
 
-<script type="text/javascript" src="/assets/js/timeconvert.js"></script>
-**
 <script>
     var d = new Date();
     d.setUTCFullYear(2020);
@@ -26,7 +25,6 @@ Chair: Julien Jaeger \\
 
     myDateTime(d);
 </script>
-**
 
 <!--
 15:00 UTC, 2020-06-25
