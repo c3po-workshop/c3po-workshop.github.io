@@ -49,7 +49,18 @@ Computational scientists face numerous challenges when trying to exploit powerfu
 
 ### Session on Correctness
 Chair: Peter Thoman \\
-**June 25th, 2020, 6pm CEST, 9am PDT**
+<!-- **June 25th, 2020, 6pm CEST, 9am PDT**-->
+<script>
+    var d = new Date();
+    d.setUTCFullYear(2020);
+    d.setUTCMonth(5);
+    d.setUTCDate(25);
+    d.setUTCHours(16);
+    d.setUTCMinutes(0);
+    d.setUTCSeconds(0);
+    d.setUTCMilliseconds(0);
+    myDateTime(d);
+</script>
 
 [**Jan Patrick Lehr (TU Darmstadt) - Compiler-assisted type-safe checkpointing**](/presentations/2020/compiler_assisted_type_safe_checkpointing.pdf)
 <!-- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NjJndmw0dnZnazI4bzFrbGRmOWg1dnRybGwgbHF1OGFqb2o4NG92MGxmcjU5b3VyYjc5M3NAZw&amp;tmsrc=lqu8ajoj84ov0lfr59ourb793s%40group.calendar.google.com"><img width="20" height="20" border="0" src="/assets/calendar.jpg"></a> -->
@@ -67,7 +78,18 @@ The 2019 MPI standard draft specification includes the addition of defined commu
 
 ### Session on Optimizations
 Chair: Purushotham Bangalore \\
-**June 25th, 2020, 7pm CEST, 10am PDT**
+<!-- **June 25th, 2020, 7pm CEST, 10am PDT** -->
+<script>
+    var d = new Date();
+    d.setUTCFullYear(2020);
+    d.setUTCMonth(5);
+    d.setUTCDate(25);
+    d.setUTCHours(17);
+    d.setUTCMinutes(0);
+    d.setUTCSeconds(0);
+    d.setUTCMilliseconds(0);
+    myDateTime(d);
+</script>
 
 [**Van-Man Nguyen (CEA) - Automatic Code Motion to Extend MPI Nonblocking Overlap Window**](/presentations/2020/automatic_code_motion_to_extend_mpi_nonblocking_overlap_window.pdf)
 <!-- <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHNlazNndDg2ZnE1Yms3NTJuOGJsN3F0NG0gbHF1OGFqb2o4NG92MGxmcjU5b3VyYjc5M3NAZw&amp;tmsrc=lqu8ajoj84ov0lfr59ourb793s%40group.calendar.google.com"><img width="20" height="20" border="0" src="/assets/calendar.jpg"></a> -->
