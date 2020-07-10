@@ -1,7 +1,4 @@
 function myDateTime(datetime) {
-    // parse utc time
-    // calculate to local time
-    
-    //document.write("hello3");
-    document.write(datetime.toLocaleString('default', { dateStyle: 'medium', timeStyle: 'short' }));
+    document.write(datetime.toLocaleString('default', { dateStyle: 'long', timeStyle: 'short'}));
+    document.write(datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}) + " UTC");
 }
