@@ -14,7 +14,7 @@ Chair: Julien Jaeger \\
 
 <script type="text/javascript" src="/assets/js/timeconvert.js"></script>
 <script>
-    var d = new Date()
+    var d = new Date();
     d.setUTCFullYear(2020);
     d.setUTCMonth(6);
     d.setUTCDate(25);
