@@ -1,3 +1,5 @@
-function myDateTime() {
-    document.write("hello");
+function myDateTime(datetime) {
+    // parse utc time
+    // calculate to local time
+    document.write("hello2");
 }
