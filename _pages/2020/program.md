@@ -21,7 +21,6 @@ Chair: Julien Jaeger \\
     d.setUTCMinutes(0);
     d.setUTCSeconds(0);
     d.setUTCMilliseconds(0);
-
     myDateTime(d);
 </script>
 
