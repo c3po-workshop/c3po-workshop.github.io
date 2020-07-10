@@ -16,7 +16,7 @@ Chair: Julien Jaeger \\
 <script>
     var d = new Date();
     d.setUTCFullYear(2020);
-    d.setUTCMonth(6);
+    d.setUTCMonth(5);
     d.setUTCDate(25);
     d.setUTCHours(15);
     d.setUTCMinutes(0);
