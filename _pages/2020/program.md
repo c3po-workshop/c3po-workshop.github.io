@@ -25,15 +25,10 @@ Chair: Julien Jaeger \\
 </script>
 
 <!--
-15:00 UTC, 2020-06-25
--->
+TODO
+1. create ical and google calendar event links/files
 
-<!--
-1. show both UTC time and automatic local time for them
-
-2. create ical and google calendar event links/files
-
-3. show location with google maps
+2. show location with google maps
 -->
 
 [**Chunhua (Leo) Liao (LLNL) - Building Source-to-Source Tools for High-Performance Computing**](/presentations/2020/building_source-to-source_tools_for_hpc.pdf)
