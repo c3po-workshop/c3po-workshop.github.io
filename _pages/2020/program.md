@@ -12,13 +12,19 @@ The recordings of all sessions are available [here](https://www.youtube.com/play
 Chair: Julien Jaeger \\
 **June 25th, 2020, 5pm CEST, 8am PDT**
 
+<script type="text/javascript" src="/assets/js/timeconvert.js"></script>
+<script>myDateTime();</script>
+
 <!--
+15:00 UTC, 2020-06-25
+-->
 
-TODO is there a way to have the datetime timezone adjusted to the users locale and automatically shown correctly?
+<!--
+1. show both UTC time and automatic local time for them
 
-The calendar invites circumvents the issue but would still be good to have!
+2. create ical and google calendar event links/files
 
-ics files + google calendar invite
+3. show location with google maps
 -->
 
 [**Chunhua (Leo) Liao (LLNL) - Building Source-to-Source Tools for High-Performance Computing**](/presentations/2020/building_source-to-source_tools_for_hpc.pdf)
