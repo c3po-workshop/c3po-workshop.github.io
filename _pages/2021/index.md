@@ -8,8 +8,8 @@ permalink: /2021/index
 
 Held in conjunction with ISC 2021.
 
-<!--![ISC2021](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
-{:style="clear: right"}-->
+![ISC2021](/assets/ISC2021_Logo.png){: width="30%" height="auto" .align-right}
+{:style="clear: right"}
 
 The goal of the C3PO workshop is to bring together a diverse group of
 researchers to discuss their latest research results on compilation techniques
@@ -20,7 +20,9 @@ invited talks in this area.
 
 <!--Registration is FREE and open for everyone interested, and users need to sign up at this [link](https://docs.google.com/forms/d/1s7BDZ9BgFDhpwNF5W3i6a_YSqs7jJlSRl_e957sKEBQ/viewform?edit_requested=true<Paste>)-->
 
-<!-- We will use the zoom chat for communication during the event. -->
+The registration link will be available here in future.
+
+We will use the zoom chat for communication during the event.
 
 
 ### Important Dates
@@ -35,9 +37,7 @@ invited talks in this area.
 -->
 
 ### Venue
-<!--
 Zoom Web conference: The Zoom link will be emailed to the registered participants shortly before the event. 
--->
 
 ### Contact
 For queries relating to the workshop, please contact Peter Pirkelbauer (pirkelbauer2 at llnl.gov) or Emmanuelle Saillard (emmanuelle.saillard at inria.fr).
