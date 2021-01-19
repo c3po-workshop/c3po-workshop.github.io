@@ -27,12 +27,12 @@ We will use the zoom chat for communication during the event.
 
 ### Important Dates
 
-<!--
-- Submission deadline for publications: April 8th, 2021 (AoE)
-- Publication notifications: May 1st, 2021
-- Pre-conference version: May 31st, 2021
-- Final camera-ready version: July 5th, 2021
+- Submission deadline for publications: TBD
+- Publication notifications: TBD
+- Pre-conference version: TBD
+- Final camera-ready version: TBD
 
+<!--
 [Submission Website](https://easychair.org/my/conference?conf=c3po)
 -->
 
