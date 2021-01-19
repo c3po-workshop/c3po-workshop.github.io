@@ -2,19 +2,19 @@
 permalink: /2021/organization
 ---
 
-<!--
 ### Chairs
 
 | Chair         | Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |
-| General     | Emmanuelle Saillard   | Inria Bordeaux Sud-Ouest                                               |
-| Associate         | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
+| General       | Emmanuelle Saillard   | Inria Bordeaux Sud-Ouest                                               |
+| Associate     | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Publications  | Anthony Skjellum      | University of Tennessee at Chattanooga                                 |
 | Publicity     | Martin Ruefenacht     | University of Edinburgh                                                |
 | Track         | Purushotham Bangalore | University of Alabama at Birmingham                                    |
-| Track       | Peter Pirkelbauer     | Lawrence Livermore National Laboratory / University of Central Florida |
-| Track         | Peter Thoman          |  University of Innsbruck                                               |
+| Track         | Peter Pirkelbauer     | Lawrence Livermore National Laboratory / University of Central Florida |
+| Track         | Peter Thoman          | University of Innsbruck                                               |
 
+<!--
 ### Program Committee Members
 
 | Name                    | Affiliation                                     |
