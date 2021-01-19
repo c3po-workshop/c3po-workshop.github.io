@@ -40,4 +40,4 @@ We will use the zoom chat for communication during the event.
 Zoom Web conference: The Zoom link will be emailed to the registered participants shortly before the event. 
 
 ### Contact
-For queries relating to the workshop, please contact Peter Pirkelbauer (pirkelbauer2 at llnl.gov) or Emmanuelle Saillard (emmanuelle.saillard at inria.fr).
+For queries relating to the workshop, please contact Emmanuelle Saillard (emmanuelle.saillard at inria.fr) or Julien Jaeger (julien.jaeger at cea.fr).
