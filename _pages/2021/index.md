@@ -27,10 +27,10 @@ We will use the zoom chat for communication during the event.
 
 ### Important Dates
 
-- Submission deadline for publications: TBD
-- Publication notifications: TBD
+- Submission deadline: TBD
+- Publication notification: TBD
 - Pre-conference version: TBD
-- Final camera-ready version: TBD
+- Camera-ready version: TBD
 
 <!--
 [Submission Website](https://easychair.org/my/conference?conf=c3po)

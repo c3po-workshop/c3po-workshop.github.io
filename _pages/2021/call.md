@@ -6,16 +6,8 @@ permalink: /2021/call
 C3PO'21 Workshop - Compiler-assisted Correctness Checking and Performance
 Optimization for HPC  
 Friday, July 2nd, 2021  
-Frankfurt, Germany  
 
 Held in conjunction with ISC 2021.
-
-<!--
-Compiler-assisted Correctness Checking and Performance Optimization for HPC (C3PO) workshop
-co-located with ISC.
-Frankfurt, Germany
-June 25 2020
--->
 
 ### Abstract
 <!---
@@ -74,19 +66,6 @@ application.
 -->
 
 ### Topics of Interest (but not limited to)
-<!---
-- Automatic parallelization
-- Compilation for heterogenous systems
-- Compiler enabled optimization
-- Compilation techniques for correctness checking of parallel software
-- Cross-languages translation
-- Modernization of legacy codes
-- Source code instrumentation
-- Source-to-source analysis/transformations
-- Static analysis
-- Static/dynamic interaction
---->
-<!--
 - Automatic parallelization
 - Compilation for heterogeneous systems
 - Compiler enabled optimization
@@ -97,7 +76,6 @@ application.
 - Source-to-source analysis/transformations
 - Static analysis
 - Static/dynamic interaction
--->
 
 ### Submissions
 <!--
@@ -117,10 +95,10 @@ to sign the Springer copyright form. Instructions for preparing papers for the
 proceedings will be emailed to authors of accepted papers.
 
 [Submission Website](https://easychair.org/my/conference?conf=c3po)
+--->
 
 ### Important Dates
-- Paper Submissions, ~~April 8th~~ **April 15th, 2020 (AoE)** [Extended deadline]
-- Paper Notification, May 1st, 2020
-- Pre-Conference Version, May 31st, 2020
-- Camera Ready Version, July 5th, 2020
--->
+- Submission deadline: TBD
+- Paper notification: TBD
+- Pre-conference version: TBD
+- Camera-ready version: TBD
