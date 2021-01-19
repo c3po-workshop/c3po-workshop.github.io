@@ -8,7 +8,7 @@ permalink: /2021/index
 
 Held in conjunction with ISC 2021.
 
-<!--![ISC2020](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
+<!--![ISC2021](/assets/ISC2020_Logo.png){: width="30%" height="auto" .align-right}
 {:style="clear: right"}-->
 
 The goal of the C3PO workshop is to bring together a diverse group of
