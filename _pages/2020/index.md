@@ -6,8 +6,8 @@ permalink: /2020/index
 
 ### C3PO'20: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
-C3PO'21 is available [here](/_pages/2021/index).
-{: .notice-success}
+The latest C3PO'{{ 'now' | date: "%Y" }} workshop is [available](/index).
+{: .notice--success}
 
 Held in conjunction with ISC 2020.
 
