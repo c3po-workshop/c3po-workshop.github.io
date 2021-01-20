@@ -6,6 +6,9 @@ permalink: /2020/index
 
 ### C3PO'20: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
+C3PO'21 is available [here](/_pages/2021/index).
+{: .notice-success}
+
 Held in conjunction with ISC 2020.
 
 **Even with ISC being now a virtual event due to the COVID-19, ISC organizers still plan to publish Workshop Proceedings with Springer’s Lecture Notes in Computer Science (LNCS).**
