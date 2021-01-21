@@ -94,7 +94,7 @@ workshop for printed proceedings. Authors of accepted papers will be required
 to sign the Springer copyright form. Instructions for preparing papers for the
 proceedings will be emailed to authors of accepted papers.
 
-[Submission Website](https://easychair.org/my/conference?conf=c3po)
+[Submission Website](https://easychair.org/conferences/?conf=c3po21)
 --->
 
 ### Important Dates
