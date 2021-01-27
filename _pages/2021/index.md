@@ -26,15 +26,11 @@ We will use the zoom chat for communication during the event.
 
 
 ### Important Dates
-
-- Submission deadline: TBD
-- Publication notification: TBD
-- Pre-conference version: TBD
+- Submission deadline: March 22nd, 2021 (AoE)
+- Paper notification: April 20th, 2021
 - Camera-ready version: TBD
 
-<!--
-[Submission Website](https://easychair.org/my/conference?conf=c3po)
--->
+[Submission Website](https://easychair.org/conferences/?conf=c3po21)
 
 ### Venue
 Zoom Web conference: The Zoom link will be emailed to the registered participants shortly before the event. 
