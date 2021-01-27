@@ -3,9 +3,10 @@ permalink: /2021/call
 ---
 
 ### Call for Submissions
-C3PO'21 Workshop - Second workshop on Compiler-assisted Correctness Checking and Performance
-Optimization for HPC
+C3PO'21 Workshop - Second workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC
+
 Virtual event
+
 Friday, July 2nd, 2021  
 
 Held in conjunction with ISC 2021.
