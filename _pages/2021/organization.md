@@ -14,18 +14,12 @@ permalink: /2021/organization
 | Track         | Peter Pirkelbauer     | Lawrence Livermore National Laboratory / University of Central Florida |
 | Track         | Peter Thoman          | University of Innsbruck                                               |
 
-<!--
 ### Program Committee Members
 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
-| Hadia Ahmed             |  Lawrence Berkeley National Laboratory (LBL)    |
-| Ritu Arora              |  Texas Advanced Computing Center (TACC)         |
-| Protonu Basu            |  Facebook                                       |
-| Ira Baxter              |  Semantic Design                                |
-| Elisabeth Brunet        |  Telecom Sud Paris                              |
+| Hadia Ahmed             |  Bodo.ai 																		    |
 | Patrick Carribault      |  CEA                                            |
-| Thomas Fahringer        |  University of Innsbruck                        |
 | Chunhua Liao            |  Lawrence Livermore National Laboratory (LLNL)  |
 | Reed Milewicz           |  Sandia National Laboratories (SNL)             |
 | Christina Peterson      |  University of Central Florida                  |
@@ -36,5 +30,5 @@ permalink: /2021/organization
 | Markus Schordan         |  Lawrence Livermore National Laboratory (LLNL)  |
 | Prema Soundararajan     |  University of Alabama at Birmingham            |
 | Aravind Sukumaran Rajam |  Washington State University                    |
+| Christian Bischof			  |  UT Darmstadt 							                    |
 
--->
