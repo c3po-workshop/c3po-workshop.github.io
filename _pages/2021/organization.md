@@ -12,13 +12,13 @@ permalink: /2021/organization
 | Publicity     | Martin Ruefenacht     | University of Edinburgh                                                |
 | Track         | Purushotham Bangalore | University of Alabama at Birmingham                                    |
 | Track         | Peter Pirkelbauer     | Lawrence Livermore National Laboratory / University of Central Florida |
-| Track         | Peter Thoman          | University of Innsbruck                                               |
+| Track         | Peter Thoman          | University of Innsbruck                                                |
 
 ### Program Committee Members
 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
-| Hadia Ahmed             |  Bodo.ai 																		    |
+| Hadia Ahmed             |  Bodo.ai 									    |
 | Patrick Carribault      |  CEA                                            |
 | Chunhua Liao            |  Lawrence Livermore National Laboratory (LLNL)  |
 | Reed Milewicz           |  Sandia National Laboratories (SNL)             |
@@ -30,5 +30,5 @@ permalink: /2021/organization
 | Markus Schordan         |  Lawrence Livermore National Laboratory (LLNL)  |
 | Prema Soundararajan     |  University of Alabama at Birmingham            |
 | Aravind Sukumaran Rajam |  Washington State University                    |
-| Christian Bischof			  |  UT Darmstadt 							                    |
+| Christian Bischof       |  UT Darmstadt                                   |
 
