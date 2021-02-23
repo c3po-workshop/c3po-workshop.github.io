@@ -30,5 +30,5 @@ permalink: /2021/organization
 | Markus Schordan         |  Lawrence Livermore National Laboratory (LLNL)  |
 | Prema Soundararajan     |  University of Alabama at Birmingham            |
 | Aravind Sukumaran Rajam |  Washington State University                    |
-| Christian Bischof       |  UT Darmstadt                                   |
+| Christian Bischof       |  TU Darmstadt                                   |
 
