@@ -64,7 +64,7 @@ proceedings will be emailed to authors of accepted papers.
 
 ### Important Dates
 <!-- - Submission deadline: March 22nd, 2021 (AoE) -->
-- Submission deadline: March 26th, 2021 (AoE)
+- Submission deadline: ~~March 26th~~ **April 7th, 2021 (AoE)** [Extended deadline]
 <!-- - Paper notification: April 20th, 2021 -->
-- Paper notification: April 26th, 2021
+- Paper notification: ~~April 26th~~ **May 7th, 2021 (AoE)** [Extended deadline]
 - Camera-ready version: TBD
