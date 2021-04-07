@@ -46,7 +46,7 @@ application.
 
 ### Submissions
 C3PO solicits two kinds of papers. Full papers present novel and original
-research and are limited to 12 pages in Springer LNCS format. Short papers
+research and are limited to 12 pages in Springer LNCS format (not including references). Short papers
 report on interesting new ideas, work with promising/early results, or
 empirical studies and are limited to 6 pages in Springer LNCS format.
 
