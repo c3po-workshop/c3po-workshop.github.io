@@ -20,7 +20,7 @@ ABSTRACT-->
 ## Sessions
 
 ### First Session
-Chair: TBD
+Chair: TBD \\
 **July 2nd, 2021, 3:15pm CEST**
 
 <!--
@@ -39,7 +39,7 @@ ABSTRACT
 ---
 
 ### Second Session
-Chair: TBD
+Chair: TBD \\
 **July 2nd, 2021, 4:30pm CEST**
 
 <!--
