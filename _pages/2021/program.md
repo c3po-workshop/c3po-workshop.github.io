@@ -7,19 +7,27 @@ permalink: /2021/program
 
 <!-- ### Recordings -->
 
+Opening Statement: Emmanuelle Saillard
+
 ## Keynote Speaker
+<!-- Chair: Emmanuelle Saillard \\ -->
 
-<!--
-Chair: Julien Jaeger \\
-**June 25th, 2020, 5pm CEST, 8am PDT**
+**July 2nd, 2021, 2pm CEST**
 
-[**Building Source-to-Source Tools for High-Performance Computing** \\
+<!-- [**Building Source-to-Source Tools for High-Performance Computing** \\
 **Chunhua (Leo) Liao (LLNL)**](/presentations/2020/building_source-to-source_tools_for_hpc.pdf) \\
 Computational scientists face numerous challenges when trying to exploit powerful and complex high-performance computing (HPC) platforms. These challenges arise in multiple aspects including productivity, performance, correctness and so on. In this talk, I will introduce a source-to-source approach to addressing HPC challenges. Our work is based on a unique compiler framework named ROSE. Developed at Lawrence Livermore National Laboratory, ROSE encapsulates advanced compiler analysis and optimization technologies into easy-to-use library APIs so developers can quickly build customized program analysis and transformation tools for C/C++/Fortran and OpenMP programs. Several example tools will be introduced, including the AST inliner, outliner, and a variable move tool. I will also briefly mention ongoing work related to benchmarks, composable tools, and training for compiler/tool developers.
-
 -->
 
+15 minute break
+
 ## Sessions
+
+**July 2nd, 2021, 3:15pm CEST**
+
+**July 2nd, 2021, 4:30pm CEST**
+
+Closing Statement: Julien Jaeger
 
 <!--
 ### Session on Correctness
