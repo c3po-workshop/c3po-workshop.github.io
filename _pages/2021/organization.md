@@ -9,7 +9,7 @@ permalink: /2021/organization
 | General       | Emmanuelle Saillard   | Inria Bordeaux Sud-Ouest                                               |
 | Associate     | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Publications  | Anthony Skjellum      | University of Tennessee at Chattanooga                                 |
-| Publicity     | Martin Ruefenacht     | University of Edinburgh                                                |
+| Publicity     | Martin Ruefenacht     | Leibniz Supercomputing Center                                          |
 | Track         | Purushotham Bangalore | University of Alabama at Birmingham                                    |
 | Track         | Peter Pirkelbauer     | Lawrence Livermore National Laboratory / University of Central Florida |
 | Track         | Peter Thoman          | University of Innsbruck                                                |

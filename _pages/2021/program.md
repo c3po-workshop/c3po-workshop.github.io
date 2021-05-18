@@ -18,7 +18,7 @@ ABSTRACT-->
 ---
 ---
 
-### First Session
+## First Session
 Chair: Peter Pirkelbauer \\
 **July 2nd, 2021, 15:10 - 16:40 CEST**
 
@@ -36,7 +36,7 @@ Wei He - Potential of Interpreter Specialization for Scientific Computing
 ---
 ---
 
-### Second Session
+## Second Session
 Chair: Peter Thoman \\
 **July 2nd, 2021, 16:55 - 17:55 CEST**
 
