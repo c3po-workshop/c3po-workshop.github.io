@@ -2,7 +2,7 @@
 permalink: /2021/program
 ---
 
-## Opening Statement
+### Opening Statement
 14:00-14:10 CEST
 Emmanuelle Saillard
 
@@ -16,9 +16,6 @@ Ira Baxter - TBD
 ABSTRACT-->
 
 ---
-
-15 minute break
-
 ---
 
 ## Sessions
@@ -39,9 +36,6 @@ Julia Lawall - Refactoring for Performance with Semantic Patching: Case Study wi
 Wei He - Potential of Interpreter Specialization for Scientific Computing
 
 ---
-
-15 minute break
-
 ---
 
 ### Second Session
@@ -52,6 +46,6 @@ Michael Blesel - heimdallr: Improving Compile Time Correctness Checking for Mess
 
 Reed Milewicz - Negative Perceptions About the Applicability of Source-to-Source Compilers in HPC: A Literature Review
 
-## Closing Statement
+### Closing Statement
 17:55 - 18:00 CEST
 Julien Jaeger
