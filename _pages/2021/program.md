@@ -2,13 +2,17 @@
 permalink: /2021/program
 ---
 
-Opening Statement: Emmanuelle Saillard
+## Opening Statement
+14:00-14:10 CEST
+Emmanuelle Saillard
 
 ## Keynote Speaker
-Chair: TBD \\
-**July 2nd, 2021, 2pm CEST**
+Chair: Purushotham Bangalore \\
+**July 2nd, 2021, 14:10 - 14:55 CEST**
 
-<!-- AUTHOR - TITLE
+Ira Baxter - TBD
+
+<!-- Ira Baxter - TITLE
 ABSTRACT-->
 
 ---
@@ -20,17 +24,19 @@ ABSTRACT-->
 ## Sessions
 
 ### First Session
-Chair: TBD \\
-**July 2nd, 2021, 3:15pm CEST**
+Chair: Peter Pirkelbauer \\
+**July 2nd, 2021, 15:10 - 16:40 CEST**
 
-<!--
-AUTHOR - TITLE
-ABSTRACT -->
+Tim Jammer - Automatic partitioning of MPI operations in MPI+OpenMP applications
 
 <!--
 AUTHOR - TITLE
 ABSTRACT
 -->
+
+Julia Lawall - Refactoring for Performance with Semantic Patching: Case Study with Recipes
+
+Wei He - Potential of Interpreter Specialization for Scientific Computing
 
 ---
 
@@ -39,16 +45,13 @@ ABSTRACT
 ---
 
 ### Second Session
-Chair: TBD \\
+Chair: Peter Thoman \\
 **July 2nd, 2021, 4:30pm CEST**
 
-<!--
-AUTHOR - TITLE
-ABSTRACT -->
+Michael Blesel - heimdallr: Improving Compile Time Correctness Checking for Message Passing with Rust
 
-<!--
-AUTHOR - TITLE
-ABSTRACT
--->
+Reed Milewicz - Negative Perceptions About the Applicability of Source-to-Source Compilers in HPC: A Literature Review
 
-Closing Statement: Julien Jaeger
+## Closing Statement
+17:55 - 18:00 CEST
+Julien Jaeger
