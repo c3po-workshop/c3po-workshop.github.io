@@ -15,9 +15,6 @@ Ira Baxter - TBD
 <!-- Ira Baxter - TITLE
 ABSTRACT-->
 
----
----
-
 ## First Session
 Chair: Peter Pirkelbauer \\
 **July 2nd, 2021, 15:10 - 16:40 CEST**
@@ -29,7 +26,6 @@ The upcoming MPI standard includes a new chapter about partitioned point to poin
 In this work, we explore the possibility for the compiler to automatically partition sending operations across multiple OpenMP threads. For this purpose, we developed an LLVM compiler pass that partitions MPI sending operations across the different iterations of penMP for loops. We demonstrate the feasibility of this approach by applying it to 2D stencil codes, observing very little overhead while the correctness of the codes is sustained. Therefore, this approach facilitates the usage of these new additions to the MPI standard for existing codes.
 
 ---
----
 
 Refactoring for Performance with Semantic Patching: Case Study with Recipes \\
 Michele Martone and Julia Lawall(speaker)
@@ -39,15 +35,11 @@ APIs of performance libraries change, etc. A moment then comes where the entire 
 In practice, much more is needed. This paper describes an activity of programmatic refactoring of >200k lines of C code by means of source-to-source translation. The context is that of a so-called high level support provided to the domain scientists community by a HPC service center. The motivation of this short paper is the immediate reuse potential of these techniques. 
 
 ---
----
 
 Potential of Interpreter Specialization for Scientific Computing \\
 Wei He(speaker) and Michelle Mills Strout
 
 Scientists frequently implement data analyses in high-level programming languages such as Python, Perl, Lua, and R. Many of these languages are inefficient due to the overhead of being dynamically typed and interpreted. In this paper, we estimate the potential performance improvement of domain-specific interpreter specialization for scientific workloads and evaluate how the characteristics of scientific workloads affect the specialization, both positively and negatively. Assisted by compilers, we specialize the Lua and CPython interpreters at source-level using the script being interpreted and the data types during the interpretation as invariants for five common tasks from real scientific computing workloads. Through our evaluation, we estimate 9.0--39.6% performance improvement for benchmarks that perform data loading, histogram computation, data filtering, data transformation, and dataset shuffle. The improvements are an estimate, because they depend on profiling results about data types. We report the details of our evaluation and present a semi-automatic method for performance benefit estimation of interpreter specialization.
-
----
----
 
 ## Second Session
 Chair: Peter Thoman \\
@@ -60,7 +52,6 @@ Message passing is the foremost parallelization method used in high-performance 
 Problems with the type safety of transmitted messages can be mitigated through the use of generic programming concepts at compile time and completely detected during runtime using data serialization methods. Our library is able to use Rust's memory safety features to achieve data buffer safety for non-blocking message passing operations at compile time. 
 A performance comparison between our proof of concept implementation and MPI is included to evaluate the practicality of our approach. While the performance of MPI could not be beaten, the results still are promising. Moreover, we are able to achieve clear improvements in the aspects of correctness and usability.
 
----
 ---
 
 Negative Perceptions About the Applicability of Source-to-Source Compilers in HPC: A Literature Review \\
