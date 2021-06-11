@@ -8,9 +8,9 @@ Emmanuelle Saillard
 
 ---
 
-## Keynote Speaker
-Chair: Purushotham Bangalore \\
-**July 2nd, 2021, 14:10 - 14:55 CEST**
+## Keynote
+**July 2nd, 2021, 14:10 - 14:55 CEST** \\
+Chair: Purushotham Bangalore
 
 Ira Baxter - TBD
 
