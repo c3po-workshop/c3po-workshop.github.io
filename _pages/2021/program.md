@@ -6,12 +6,15 @@ permalink: /2021/program
 
 ### Opening Statement
 <!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
+
+<p>
 <script>
     var d = new Date(Date.UTC(2021, 6, 2, 12, 0));
     var d2 = new Date(Date.UTC(2021, 6, 2, 12, 10));
     myDateTime(d, d2);
 </script>
 Emmanuelle Saillard
+</p>
 
 ---
 ---
