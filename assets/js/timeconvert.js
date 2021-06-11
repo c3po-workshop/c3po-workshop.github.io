@@ -25,7 +25,8 @@ function myDateTime(datetime, until) {
         + "<br>"
         + datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}).bold() + " - ".bold()
         + until.toLocaleString('default', {timeZone: "UTC", timeStyle: "short"}).bold() + " "
-        + "UTC".bold();
+        + "UTC".bold() 
+        + "<br>";
 
     document.write(st);
 }
