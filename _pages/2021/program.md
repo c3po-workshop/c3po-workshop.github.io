@@ -8,26 +8,9 @@ permalink: /2021/program
 <!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
 <script>
     var d = new Date(Date.UTC(2021, 6, 2, 12, 0));
-    // d.setUTCFullYear(2021);
-    // d.setUTCMonth(6);
-    // d.setUTCDate(2);
-    // d.setUTCHours(12);
-    // d.setUTCMinutes(0);
-    // d.setUTCSeconds(0);
-    // d.setUTCMilliseconds(0);
-
     var d2 = new Date(Date.UTC(2021, 6, 2, 12, 10));
-    // d2.setUTCFullYear(2021);
-    // d2.setUTCMonth(6);
-    // d2.setUTCDate(2);
-    // d2.setUTCHours(12);
-    // d2.setUTCMinutes(10);
-    // d2.setUTCSeconds(0);
-    // d2.setUTCMilliseconds(0);
-
     myDateTime(d, d2);
-</script>
-Emmanuelle Saillard
+</script> Emmanuelle Saillard
 
 ---
 ---
