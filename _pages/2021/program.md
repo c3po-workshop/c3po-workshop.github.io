@@ -16,7 +16,7 @@ permalink: /2021/program
     // d.setUTCSeconds(0);
     // d.setUTCMilliseconds(0);
 
-    var d = new Date(Date.UTC(2021, 6, 2, 12, 10));
+    var d2 = new Date(Date.UTC(2021, 6, 2, 12, 10));
     // d2.setUTCFullYear(2021);
     // d2.setUTCMonth(6);
     // d2.setUTCDate(2);
