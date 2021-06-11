@@ -10,7 +10,8 @@ permalink: /2021/program
     var d = new Date(Date.UTC(2021, 6, 2, 12, 0));
     var d2 = new Date(Date.UTC(2021, 6, 2, 12, 10));
     myDateTime(d, d2);
-</script> Emmanuelle Saillard
+</script>
+Emmanuelle Saillard
 
 ---
 ---
@@ -21,7 +22,8 @@ permalink: /2021/program
     var d = new Date(Date.UTC(2021, 6, 2, 12, 10));
     var d2 = new Date(Date.UTC(2021, 6, 2, 12, 55));
     myDateTime(d, d2);
-</script> Chair: Purushotham Bangalore
+</script>
+Chair: Purushotham Bangalore
 
 TBD \\
 **Ira Baxter**
@@ -35,7 +37,8 @@ TBD \\
     var d = new Date(Date.UTC(2021, 6, 2, 13, 10));
     var d2 = new Date(Date.UTC(2021, 6, 2, 14, 40));
     myDateTime(d, d2);
-</script> Chair: Peter Pirkelbauer
+</script>
+Chair: Peter Pirkelbauer
 
 **Automatic partitioning of MPI operations in MPI+OpenMP applications** \\
 **Tim Jammer** and Christian Bischof
@@ -68,7 +71,8 @@ Scientists frequently implement data analyses in high-level programming language
     var d = new Date(Date.UTC(2021, 6, 2, 14, 55));
     var d2 = new Date(Date.UTC(2021, 6, 2, 15, 55));
     myDateTime(d, d2);
-</script> Chair: Peter Thoman
+</script>
+Chair: Peter Thoman
 
 **heimdallr: Improving Compile Time Correctness Checking for Message Passing with Rust** \\
 **Michael Blesel**, Michael Kuhn, and Jannek Squar
@@ -93,4 +97,5 @@ Source-to-source compilation (also known as S2S compilation, transcompilation or
     var d = new Date(Date.UTC(2021, 6, 2, 15, 55));
     var d2 = new Date(Date.UTC(2021, 6, 2, 16, 0));
     myDateTime(d, d2);
-</script> Julien Jaeger
+</script>
+Julien Jaeger
