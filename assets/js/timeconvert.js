@@ -18,8 +18,14 @@ function getTimezoneName() {
   }
 }
 
-function myDateTime(datetime) {
-    var st = datetime.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}).bold() + " " + getTimezoneName().bold() + "<br>" + datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}).bold() + " " + "UTC".bold();
+function myDateTime(datetime, until) {
+    var st = datetime.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}).bold() + " - " 
+        + until.toLocaleString('default', {dateStyle: 'long', timeStyle: 'short'}).bold() + " "
+        + getTimezoneName().bold()
+        + "<br>"
+        + datetime.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}).bold() + " - "
+        + until.toLocaleString('default', {timeZone: "UTC", dateStyle: "long", timeStyle: "short"}).bold() + " - "
+        + "UTC".bold();
 
     document.write(st);
 }

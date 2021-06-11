@@ -15,7 +15,17 @@ permalink: /2021/program
     d.setUTCMinutes(0);
     d.setUTCSeconds(0);
     d.setUTCMilliseconds(0);
-    myDateTime(d);
+
+    var d2 = new Date();
+    d2.setUTCFullYear(2021);
+    d2.setUTCMonth(6);
+    d2.setUTCDate(2);
+    d2.setUTCHours(12);
+    d2.setUTCMinutes(0);
+    d2.setUTCSeconds(0);
+    d2.setUTCMilliseconds(0);
+
+    myDateTime(d, d2);
 </script>
 Emmanuelle Saillard
 
@@ -26,10 +36,9 @@ Emmanuelle Saillard
 **July 2nd, 2021, 14:10 - 14:55 CEST** \\
 Chair: Purushotham Bangalore
 
-Ira Baxter - TBD
+TBD
+**Ira Baxter**
 
-<!-- Ira Baxter - TITLE
-ABSTRACT-->
 ---
 ---
 
