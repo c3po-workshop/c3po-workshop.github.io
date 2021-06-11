@@ -7,7 +7,7 @@ permalink: /2021/program
 ### Opening Statement
 <!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
 <script>
-    var d = new Date(1622628000);
+    var d = new Date(1622628000000);
     // d.setUTCFullYear(2021);
     // d.setUTCMonth(6);
     // d.setUTCDate(2);
@@ -16,7 +16,7 @@ permalink: /2021/program
     // d.setUTCSeconds(0);
     // d.setUTCMilliseconds(0);
 
-    var d2 = new Date(1622628600);
+    var d2 = new Date(1622628600000);
     // d2.setUTCFullYear(2021);
     // d2.setUTCMonth(6);
     // d2.setUTCDate(2);
