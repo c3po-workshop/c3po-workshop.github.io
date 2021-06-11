@@ -9,7 +9,6 @@ Emmanuelle Saillard
 ---
 ---
 
-
 ## Keynote
 **July 2nd, 2021, 14:10 - 14:55 CEST** \\
 Chair: Purushotham Bangalore
@@ -18,7 +17,6 @@ Ira Baxter - TBD
 
 <!-- Ira Baxter - TITLE
 ABSTRACT-->
-
 ---
 ---
 
