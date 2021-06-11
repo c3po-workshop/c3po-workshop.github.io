@@ -3,8 +3,8 @@ permalink: /2021/program
 ---
 
 ### Opening Statement
-14:00-14:10 CEST
-Opening: Emmanuelle Saillard
+14:00-14:10 CEST \\
+Emmanuelle Saillard
 
 ## Keynote Speaker
 Chair: Purushotham Bangalore \\
@@ -69,5 +69,5 @@ Reed Milewicz(speaker), Peter Pirkelbauer, Prema Soundararajan, Hadia Ahmed and 
 Source-to-source compilation (also known as S2S compilation, transcompilation or transpilation), refers to compiler technologies that map source code inputs to source code outputs. They are distinct from compilers and other similar technologies. S2S techniques are commonly used to enable fluent translation between high-level programming languages, to perform large-scale refactoring operations, and to facilitate instrumentation for dynamic analysis. Negative perceptions about S2S's applicability in High Performance Computing (HPC) are studied and evaluated here. This is a first study that brings to light reasons why scientists do not use source-to-source techniques for HPC. The primary audience for this paper are those considering S2S technology in their HPC application work.
 
 ### Closing Statement
-17:55 - 18:00 CEST
-Closing: Julien Jaeger
+17:55 - 18:00 CEST\\
+Julien Jaeger
