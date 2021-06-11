@@ -16,8 +16,12 @@ permalink: /2021/program
 ---
 
 ## Keynote
-**July 2nd, 2021, 14:10 - 14:55 CEST** \\
-Chair: Purushotham Bangalore
+<!-- **July 2nd, 2021, 14:10 - 14:55 CEST** \\ -->
+<script>
+    var d = new Date(Date.UTC(2021, 6, 2, 12, 10));
+    var d2 = new Date(Date.UTC(2021, 6, 2, 12, 55));
+    myDateTime(d, d2);
+</script> Chair: Purushotham Bangalore
 
 TBD \\
 **Ira Baxter**
@@ -26,8 +30,12 @@ TBD \\
 ---
 
 ## First Session
-**July 2nd, 2021, 15:10 - 16:40 CEST** \\
-Chair: Peter Pirkelbauer
+<!-- **July 2nd, 2021, 15:10 - 16:40 CEST** \\ -->
+<script>
+    var d = new Date(Date.UTC(2021, 6, 2, 13, 10));
+    var d2 = new Date(Date.UTC(2021, 6, 2, 14, 40));
+    myDateTime(d, d2);
+</script> Chair: Peter Pirkelbauer
 
 **Automatic partitioning of MPI operations in MPI+OpenMP applications** \\
 **Tim Jammer** and Christian Bischof
@@ -55,8 +63,12 @@ Scientists frequently implement data analyses in high-level programming language
 ---
 
 ## Second Session
-**July 2nd, 2021, 16:55 - 17:55 CEST** \\
-Chair: Peter Thoman
+<!-- **July 2nd, 2021, 16:55 - 17:55 CEST** \\ -->
+<script>
+    var d = new Date(Date.UTC(2021, 6, 2, 14, 55));
+    var d2 = new Date(Date.UTC(2021, 6, 2, 15, 55));
+    myDateTime(d, d2);
+</script> Chair: Peter Thoman
 
 **heimdallr: Improving Compile Time Correctness Checking for Message Passing with Rust** \\
 **Michael Blesel**, Michael Kuhn, and Jannek Squar
@@ -76,5 +88,9 @@ Source-to-source compilation (also known as S2S compilation, transcompilation or
 ---
 
 ### Closing Statement
-**July 2nd, 2021, 17:55 - 18:00 CEST** \\
-Julien Jaeger
+<!-- **July 2nd, 2021, 17:55 - 18:00 CEST** \\ -->
+<script>
+    var d = new Date(Date.UTC(2021, 6, 2, 15, 55));
+    var d2 = new Date(Date.UTC(2021, 6, 2, 16, 0));
+    myDateTime(d, d2);
+</script> Julien Jaeger
