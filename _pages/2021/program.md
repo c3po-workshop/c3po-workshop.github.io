@@ -21,7 +21,7 @@ permalink: /2021/program
     d2.setUTCMonth(6);
     d2.setUTCDate(2);
     d2.setUTCHours(12);
-    d2.setUTCMinutes(0);
+    d2.setUTCMinutes(10);
     d2.setUTCSeconds(0);
     d2.setUTCMilliseconds(0);
 
