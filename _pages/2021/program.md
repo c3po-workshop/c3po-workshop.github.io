@@ -7,7 +7,7 @@ permalink: /2021/program
 ### Opening Statement
 <!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
 <script>
-    var d = new Date(2021, 6, 2, 12, 0);
+    var d = new Date(1622628000);
     // d.setUTCFullYear(2021);
     // d.setUTCMonth(6);
     // d.setUTCDate(2);
@@ -16,7 +16,7 @@ permalink: /2021/program
     // d.setUTCSeconds(0);
     // d.setUTCMilliseconds(0);
 
-    var d2 = new Date(2021, 6, 2, 12, 10);
+    var d2 = new Date(1622628600);
     // d2.setUTCFullYear(2021);
     // d2.setUTCMonth(6);
     // d2.setUTCDate(2);
@@ -36,7 +36,7 @@ Emmanuelle Saillard
 **July 2nd, 2021, 14:10 - 14:55 CEST** \\
 Chair: Purushotham Bangalore
 
-TBD
+TBD \\
 **Ira Baxter**
 
 ---
