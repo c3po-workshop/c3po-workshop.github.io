@@ -2,8 +2,21 @@
 permalink: /2021/program
 ---
 
+<script type="text/javascript" src="/assets/js/timeconvert.js"></script>
+
 ### Opening Statement
-**14:00-14:10 CEST** \\
+<!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
+<script>
+    var d = new Date();
+    d.setUTCFullYear(2021);
+    d.setUTCMonth(6);
+    d.setUTCDate(2);
+    d.setUTCHours(12);
+    d.setUTCMinutes(0);
+    d.setUTCSeconds(0);
+    d.setUTCMilliseconds(0);
+    myDateTime(d);
+</script>
 Emmanuelle Saillard
 
 ---
@@ -71,5 +84,5 @@ Source-to-source compilation (also known as S2S compilation, transcompilation or
 ---
 
 ### Closing Statement
-**17:55 - 18:00 CEST** \\
+**July 2nd, 2021, 17:55 - 18:00 CEST** \\
 Julien Jaeger
