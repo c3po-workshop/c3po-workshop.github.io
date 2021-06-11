@@ -6,6 +6,8 @@ permalink: /2021/program
 14:00-14:10 CEST \\
 Emmanuelle Saillard
 
+---
+
 ## Keynote Speaker
 Chair: Purushotham Bangalore \\
 **July 2nd, 2021, 14:10 - 14:55 CEST**
@@ -14,6 +16,8 @@ Ira Baxter - TBD
 
 <!-- Ira Baxter - TITLE
 ABSTRACT-->
+
+---
 
 ## First Session
 **July 2nd, 2021, 15:10 - 16:40 CEST** \\
@@ -41,6 +45,8 @@ In practice, much more is needed. This paper describes an activity of programmat
 
 Scientists frequently implement data analyses in high-level programming languages such as Python, Perl, Lua, and R. Many of these languages are inefficient due to the overhead of being dynamically typed and interpreted. In this paper, we estimate the potential performance improvement of domain-specific interpreter specialization for scientific workloads and evaluate how the characteristics of scientific workloads affect the specialization, both positively and negatively. Assisted by compilers, we specialize the Lua and CPython interpreters at source-level using the script being interpreted and the data types during the interpretation as invariants for five common tasks from real scientific computing workloads. Through our evaluation, we estimate 9.0--39.6% performance improvement for benchmarks that perform data loading, histogram computation, data filtering, data transformation, and dataset shuffle. The improvements are an estimate, because they depend on profiling results about data types. We report the details of our evaluation and present a semi-automatic method for performance benefit estimation of interpreter specialization.
 
+---
+
 ## Second Session
 **July 2nd, 2021, 16:55 - 17:55 CEST** \\
 Chair: Peter Thoman
@@ -58,6 +64,8 @@ A performance comparison between our proof of concept implementation and MPI is 
 **Reed Milewicz**, Peter Pirkelbauer, Prema Soundararajan, Hadia Ahmed and Tony Skjellum
 
 Source-to-source compilation (also known as S2S compilation, transcompilation or transpilation), refers to compiler technologies that map source code inputs to source code outputs. They are distinct from compilers and other similar technologies. S2S techniques are commonly used to enable fluent translation between high-level programming languages, to perform large-scale refactoring operations, and to facilitate instrumentation for dynamic analysis. Negative perceptions about S2S's applicability in High Performance Computing (HPC) are studied and evaluated here. This is a first study that brings to light reasons why scientists do not use source-to-source techniques for HPC. The primary audience for this paper are those considering S2S technology in their HPC application work.
+
+---
 
 ### Closing Statement
 17:55 - 18:00 CEST\\
