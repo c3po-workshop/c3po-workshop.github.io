@@ -21,7 +21,7 @@ Chair: Julien Jaeger \\
     d.setUTCMinutes(0);
     d.setUTCSeconds(0);
     d.setUTCMilliseconds(0);
-    myDateTime(d);
+    myDateTime(d, d);
 </script>
 
 <!--
@@ -54,7 +54,7 @@ Chair: Peter Thoman \\
     d.setUTCMinutes(0);
     d.setUTCSeconds(0);
     d.setUTCMilliseconds(0);
-    myDateTime(d);
+    myDateTime(d, d);
 </script>
 
 [**Jan Patrick Lehr (TU Darmstadt) - Compiler-assisted type-safe checkpointing**](/presentations/2020/compiler_assisted_type_safe_checkpointing.pdf)
@@ -83,7 +83,7 @@ Chair: Purushotham Bangalore \\
     d.setUTCMinutes(0);
     d.setUTCSeconds(0);
     d.setUTCMilliseconds(0);
-    myDateTime(d);
+    myDateTime(d, d);
 </script>
 
 [**Van-Man Nguyen (CEA) - Automatic Code Motion to Extend MPI Nonblocking Overlap Window**](/presentations/2020/automatic_code_motion_to_extend_mpi_nonblocking_overlap_window.pdf)
