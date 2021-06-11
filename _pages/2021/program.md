@@ -19,8 +19,8 @@ ABSTRACT-->
 Chair: Peter Pirkelbauer \\
 **July 2nd, 2021, 15:10 - 16:40 CEST**
 
-Automatic partitioning of MPI operations in MPI+OpenMP applications \\
-Tim Jammer(speaker) and Christian Bischof
+**Automatic partitioning of MPI operations in MPI+OpenMP applications** \\
+**Tim Jammer** and Christian Bischof
 
 The upcoming MPI standard includes a new chapter about partitioned point to point communication operations. These partitioned operations allow multiple actors of one MPI process (e.g. multiple threads) to contribute data to one communication operation. These operations are designed to mitigate current problems in multithreaded MPI programs, with some work suggesting a substantial performance benefit (up to 26%) when using these operations compared to their existing non-blocking counterparts. 
 In this work, we explore the possibility for the compiler to automatically partition sending operations across multiple OpenMP threads. For this purpose, we developed an LLVM compiler pass that partitions MPI sending operations across the different iterations of penMP for loops. We demonstrate the feasibility of this approach by applying it to 2D stencil codes, observing very little overhead while the correctness of the codes is sustained. Therefore, this approach facilitates the usage of these new additions to the MPI standard for existing codes.
