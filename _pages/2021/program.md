@@ -3,7 +3,7 @@ permalink: /2021/program
 ---
 
 ### Opening Statement
-14:00-14:10 CEST \\
+**14:00-14:10 CEST** \\
 Emmanuelle Saillard
 
 ---
@@ -68,5 +68,5 @@ Source-to-source compilation (also known as S2S compilation, transcompilation or
 ---
 
 ### Closing Statement
-17:55 - 18:00 CEST\\
+**17:55 - 18:00 CEST** \\
 Julien Jaeger
