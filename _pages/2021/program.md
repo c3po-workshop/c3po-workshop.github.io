@@ -30,8 +30,38 @@ Emmanuelle Saillard
 Chair: Purushotham Bangalore
 </p>
 
-TBD \\
+Automated transformation for software (re)engineering using DMS \\
 **Ira Baxter**
+
+This talk will provide an overview of the DMS Software Reengineering Tookit,
+a general purpose  program transformation system usuable at industrial scale.
+The talk will  have several parts: 1) a  practical discussion of the DMS engine, some general
+applications such as COBOL migrations, 2)  applications relevant to the
+high-performance computing space. This includes massive C++ refactoring tasks,
+code generation for vector machines using a variation of C++ called VectorC++,
+and 3) the ambitious notion of changing how (scientific) software is
+built/more importantly modified, using formal refinement as a basis,
+building on the idea of program transformations.
+
+Ira built his first (timesharing) operating system on a Data General Nova in 1971.
+He built milling machine controller computers literally from scratch in 1973 at WaveMate.
+In the mid 1970's he tried to become Bill Gates, founding a software company
+for 8 bit computers.   Bill Gates got struck by IBM lightning, so Ira went
+to graduate school in the 1980s.   He spent 5 years at the Schlumber Lab
+for Computer Science working on automated generation of seismic wave
+modelling codes starting with differential equations.   He worked with
+Rockwell Automation for a number of years, improving the quality of
+the software used by industrial control computers.  He started
+Semantic Designs in 1995 with a grant from NIST/ATP to design and build
+the initial version of DMS.  He has been at SD ever since, implementing DMS
+infrastructure including a fine grain parallel language PARLANSE
+in which DMS is implemented, and  leading a wide variety of
+large-scale commercial applications of DMS including
+language migrations, code generate, reverse engineering low
+level code to models, as well as tools to manipulate Fortran and C++.
+
+He received his undergradate degree, and his Ph.D., both from
+the University of California at Irvine, in 1973 and 1990 respectively.
 
 ---
 ---
