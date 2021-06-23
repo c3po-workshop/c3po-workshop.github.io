@@ -30,7 +30,7 @@ Emmanuelle Saillard
 Chair: Purushotham Bangalore
 </p>
 
-Automated transformation for software (re)engineering using DMS \\
+**Automated transformation for software (re)engineering using DMS** \\
 **Ira Baxter**
 
 This talk will provide an overview of the DMS Software Reengineering Tookit,
