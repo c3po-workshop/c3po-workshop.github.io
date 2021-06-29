@@ -94,7 +94,8 @@ In practice, much more is needed. This paper describes an activity of programmat
 
 ---
 
-**Potential of Interpreter Specialization for Scientific Computing** \\
+<!-- **Potential of Interpreter Specialization for Scientific Computing** \\ -->
+**Potential of Interpreter Specialization for Data Analysis** \\
 **Wei He** and Michelle Mills Strout
 
 Scientists frequently implement data analyses in high-level programming languages such as Python, Perl, Lua, and R. Many of these languages are inefficient due to the overhead of being dynamically typed and interpreted. In this paper, we estimate the potential performance improvement of domain-specific interpreter specialization for scientific workloads and evaluate how the characteristics of scientific workloads affect the specialization, both positively and negatively. Assisted by compilers, we specialize the Lua and CPython interpreters at source-level using the script being interpreted and the data types during the interpretation as invariants for five common tasks from real scientific computing workloads. Through our evaluation, we estimate 9.0--39.6% performance improvement for benchmarks that perform data loading, histogram computation, data filtering, data transformation, and dataset shuffle. The improvements are an estimate, because they depend on profiling results about data types. We report the details of our evaluation and present a semi-automatic method for performance benefit estimation of interpreter specialization.
