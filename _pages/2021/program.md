@@ -4,6 +4,11 @@ permalink: /2021/program
 
 <script type="text/javascript" src="/assets/js/timeconvert.js"></script>
 
+**Zoom links will be available on Thursday, July 1, 2:00 pm CEST via the event platform Swapcard.**
+{: .notice--info}
+**Zoom sessions will be ready to launch at 13:30 CEST on Friday, July 2, 2021.**
+{: .notice--info}
+
 ### Opening Statement
 <!-- **July 2nd, 2021, 14:00 - 14:10 CEST** \\ -->
 

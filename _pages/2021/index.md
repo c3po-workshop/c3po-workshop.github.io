@@ -6,6 +6,11 @@ permalink: /2021/index
 
 ### C3PO'21: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
+**Zoom links will be available on Thursday, July 1, 2:00 pm CEST via the event platform Swapcard.**
+{: .notice--info}
+**Zoom sessions will be ready to launch at 13:30 CEST on Friday, July 2, 2021.**
+{: .notice--info}
+
 Held in conjunction with ISC 2021.
 
 ![ISC2021](/assets/ISC2021_Logo.png){: width="30%" height="auto" .align-right}
