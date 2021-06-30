@@ -35,7 +35,7 @@ We will use the zoom chat for communication during the event.
 - Submission deadline: ~~March 26th~~ **April 7th, 2021 (AoE)** [Extended deadline]
 <!-- - Paper notification: April 20th, 2021 -->
 - Paper notification: ~~April 26th, 2021~~ **May 7th, 2021 (AoE)** [Extended deadline]
-- Camera-ready version: TBD
+- Camera-ready version: August 2nd 2021 23:59 (AoE)
 
 [Submission Website](https://easychair.org/conferences/?conf=c3po21)
 
