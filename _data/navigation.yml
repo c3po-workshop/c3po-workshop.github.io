@@ -9,16 +9,16 @@ main:
       url: /index
 
     - title: "Program"
-      url: /2021/program
+      url: /2022/program
 
     - title: "Call for Submissions"
-      url: /2021/call
+      url: /2022/call
 
 #    - title: "Sponsors"
 #      url: /2020/sponsors
 
     - title: "Organization"
-      url: /2021/organization
+      url: /2022/organization
 
     - title: "History"
       url: /history
