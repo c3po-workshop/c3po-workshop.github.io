@@ -19,6 +19,7 @@ TBD
 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
+
 <!--
 | Hadia Ahmed             |  Bodo.ai 									    |
 | Patrick Carribault      |  CEA                                            |
@@ -33,5 +34,4 @@ TBD
 | Prema Soundararajan     |  University of Alabama at Birmingham            |
 | Aravind Sukumaran Rajam |  Washington State University                    |
 | Christian Bischof       |  TU Darmstadt                                   |
-
 -->
