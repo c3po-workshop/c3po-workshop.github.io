@@ -17,9 +17,9 @@ permalink: /2022/organization
 ### Program Committee Members
 TBD
 
-<!--
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
+<!--
 | Hadia Ahmed             |  Bodo.ai 									    |
 | Patrick Carribault      |  CEA                                            |
 | Chunhua Liao            |  Lawrence Livermore National Laboratory (LLNL)  |
