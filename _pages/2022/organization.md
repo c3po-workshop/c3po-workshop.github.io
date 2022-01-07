@@ -15,7 +15,6 @@ permalink: /2022/organization
 | Track         | Peter Thoman          | University of Innsbruck                                                |
 
 ### Program Committee Members
-TBD
 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
