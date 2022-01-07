@@ -63,6 +63,7 @@ proceedings will be emailed to authors of accepted papers.
 <!-- [Submission Website](https://easychair.org/conferences/?conf=c3po21) -->
 
 ### Important Dates
-- Submission deadline: TBD
-- Paper notification: TBD
+- Submission deadline: 21st Feburary 2022 AoE
+<!-- -- Submission deadline: ~~21st Feburary 2022 AoE~~ 28th Feburary 2022 AoE -->
+- Paper notification: 31st March 2022
 - Camera-ready version: TBD
