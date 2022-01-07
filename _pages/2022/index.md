@@ -8,8 +8,8 @@ permalink: /2022/index
 
 Held in Conjunction with ISC 2022.
 
-![ISC2022](/assets/ISC2022_Logo.png){: width="30%" height="auto" .alight-right}
-{:style="clear: right"}
+<!-- ![ISC2022](/assets/ISC2022_Logo.png){: width="30%" height="auto" .alight-right}
+{:style="clear: right"} -->
 
 The goal of the C3PO workshop is to bring together a diverse group of
 researchers to discuss their latest research results on compilation techniques
