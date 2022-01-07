@@ -3,6 +3,7 @@ permalink: /2022/organization
 ---
 
 ### Chairs
+
 | Chair         | Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |
 | General       | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
