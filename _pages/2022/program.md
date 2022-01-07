@@ -24,6 +24,8 @@ Julien Jaeger
 Chair: TBD
 </p>
 
+TBD
+
 ## First Session
 <p>
 <script>
@@ -34,6 +36,8 @@ Chair: TBD
 Chair: TBD
 </p>
 
+TBD
+
 ## Second Session
 <p>
 <script>
@@ -43,6 +47,8 @@ Chair: TBD
 </script>
 Chair: TBD
 </p>
+
+TBD
 
 ## Closing Statement
 <p>
