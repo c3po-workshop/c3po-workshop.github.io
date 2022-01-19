@@ -16,8 +16,10 @@ permalink: /2022/organization
 
 ### Program Committee Members
 
+<!-- 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
+-->
 
 <!--
 | Hadia Ahmed             |  Bodo.ai 									    |

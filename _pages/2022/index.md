@@ -2,7 +2,7 @@
 permalink: /2022/index
 ---
 
-![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"}
+<!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
 ### C3PO'22: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
