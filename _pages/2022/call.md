@@ -43,6 +43,7 @@ application.
 - Source-to-source analysis/transformations
 - Static analysis
 - Static/dynamic interaction
+<!-- - Compiler-based tooling for parallel application development -->
 
 ### Submissions
 C3PO solicits two kinds of papers. Full papers present novel and original
