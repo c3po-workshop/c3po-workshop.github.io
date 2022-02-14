@@ -6,6 +6,9 @@ permalink: /2021/index
 
 ### C3PO'21: Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
+**The latest C3PO'{{ 'now' | date: "%y" }} workshop is [available](/index).**
+{: .notice--success}
+
 **Zoom links will be available on Thursday, July 1, 2:00 pm CEST via the event platform Swapcard.**
 {: .notice--info}
 **Zoom sessions will be ready to launch at 13:30 CEST on Friday, July 2, 2021.**
