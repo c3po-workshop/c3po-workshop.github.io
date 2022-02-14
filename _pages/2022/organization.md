@@ -16,23 +16,24 @@ permalink: /2022/organization
 
 ### Program Committee Members
 
-<!-- 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
--->
-
-<!--
 | Hadia Ahmed             |  Bodo.ai 									    |
 | Patrick Carribault      |  CEA                                            |
 | Chunhua Liao            |  Lawrence Livermore National Laboratory (LLNL)  |
 | Reed Milewicz           |  Sandia National Laboratories (SNL)             |
-| Christina Peterson      |  University of Central Florida                  |
 | Amalee Wilson           |  Stanford University                            |
 | Sara Royuela            |  Barcelona Supercomputing Center (BSC)          |
 | Benson Muite            |  Kichakato Kizito                               |
-| Joachim Protze          |  RWTH Aachen University                         |
 | Markus Schordan         |  Lawrence Livermore National Laboratory (LLNL)  |
-| Prema Soundararajan     |  University of Alabama at Birmingham            |
 | Aravind Sukumaran Rajam |  Washington State University                    |
+
+<!--
+| Christina Peterson      |  University of Central Florida                  |
+
+| Joachim Protze          |  RWTH Aachen University                         |
+
+| Prema Soundararajan     |  University of Alabama at Birmingham            |
+
 | Christian Bischof       |  TU Darmstadt                                   |
 -->
