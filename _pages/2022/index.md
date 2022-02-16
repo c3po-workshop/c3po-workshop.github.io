@@ -22,8 +22,8 @@ The registration link will be available here in future.
 
 ### Important Dates
 
-- Submission deadline: 21st Feburary 2022 AoE
-<!-- -Submission deadline: ~~21st Feburary 2022 AoE~~ 28th Feburary 2022 AoE-->
+<!-- - Submission deadline: 21st Feburary 2022 AoE -->
+- Submission deadline: ~~21st Feburary 2022 AoE~~ 28th Feburary 2022 AoE
 - Paper notification: 31st March 2022
 - Camera-ready version: TBD
 
