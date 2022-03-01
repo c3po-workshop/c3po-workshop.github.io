@@ -67,6 +67,7 @@ proceedings will be emailed to authors of accepted papers.
 
 ### Important Dates
 <!-- - Submission deadline: 21st February 2022 AoE -->
-- Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE
+<!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
+- Submission deadline: ~~21st February 2022 AoE~~ ~~28th February 2022 AoE~~ 3rd March 2022 AoE
 - Paper notification: 31st March 2022
 - Camera-ready version: TBD
