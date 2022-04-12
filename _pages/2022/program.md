@@ -7,8 +7,8 @@ permalink: /2022/program
 ### Opening Statement
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 13, 0));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 13, 5));
+    var d = new Date(Date.UTC(2022, 6, 2, 12, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 12, 5));
     myDateTime(d, d2);
 </script>
 Julien Jaeger
@@ -20,8 +20,8 @@ Julien Jaeger
 ## Keynote
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 13, 5));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 14, 0));
+    var d = new Date(Date.UTC(2022, 6, 2, 12, 5));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 13, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
@@ -35,8 +35,8 @@ TBD
 ## First Session
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 14, 0));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 15, 0));
+    var d = new Date(Date.UTC(2022, 6, 2, 13, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 14, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
@@ -61,8 +61,8 @@ Abstract: TBD
 ## Second Session
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 15, 30));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 16, 0));
+    var d = new Date(Date.UTC(2022, 6, 2, 14, 30));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 15, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
@@ -79,8 +79,8 @@ Abstract: TBD
 
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 16, 0));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 17, 0));
+    var d = new Date(Date.UTC(2022, 6, 2, 15, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 16, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
@@ -94,8 +94,8 @@ TBD
 ## Closing Statement
 <p>
 <script>
-    var d = new Date(Date.UTC(2022, 6, 2, 17, 0));
-    var d2 = new Date(Date.UTC(2022, 6, 2, 17, 5));
+    var d = new Date(Date.UTC(2022, 6, 2, 16, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 16, 5));
     myDateTime(d, d2);
 </script>
 Emmanuelle Saillard
