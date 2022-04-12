@@ -7,42 +7,80 @@ permalink: /2022/program
 ### Opening Statement
 <p>
 <script>
-    var d = new Date(Date.UTC(2021, 6, 2, 7, 0));
-    var d2 = new Date(Date.UTC(2021, 6, 2, 7, 10));
+    var d = new Date(Date.UTC(2022, 6, 2, 13, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 13, 5));
     myDateTime(d, d2);
 </script>
 Julien Jaeger
 </p>
 
+---
+---
+
 ## Keynote
 <p>
 <script>
-    var d = new Date(Date.UTC(2021, 6, 2, 7, 10));
-    var d2 = new Date(Date.UTC(2021, 6, 2, 7, 55));
+    var d = new Date(Date.UTC(2022, 6, 2, 13, 5));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 14, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
 </p>
 
 TBD
+
+---
+---
 
 ## First Session
 <p>
 <script>
-    var d = new Date(Date.UTC(2021, 6, 2, 7, 55));
-    var d2 = new Date(Date.UTC(2021, 6, 2, 9, 00));
+    var d = new Date(Date.UTC(2022, 6, 2, 14, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 15, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
 </p>
 
 TBD
+
+**Lightweight Array Contraction by Trace-Based Polyhedral Analysis**
+
+Abstract: TBD
+
+---
+
+**Compiler-assisted Instrumentation Selection for Large-scale C++ Codes**
+
+Abstract: TBD
+
+
+---
+---
 
 ## Second Session
 <p>
 <script>
-    var d = new Date(Date.UTC(2021, 6, 2, 9, 00));
-    var d2 = new Date(Date.UTC(2021, 6, 2, 10, 55));
+    var d = new Date(Date.UTC(2022, 6, 2, 15, 30));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 16, 0));
+    myDateTime(d, d2);
+</script>
+Chair: TBD
+</p>
+
+**Detecting scale-induced overflow bugs in production HPC codes**
+
+Abstract: TBD
+
+---
+---
+
+## Panel
+
+<p>
+<script>
+    var d = new Date(Date.UTC(2022, 6, 2, 16, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 17, 0));
     myDateTime(d, d2);
 </script>
 Chair: TBD
@@ -50,11 +88,14 @@ Chair: TBD
 
 TBD
 
+---
+---
+
 ## Closing Statement
 <p>
 <script>
-    var d = new Date(Date.UTC(2021, 6, 2, 10, 55));
-    var d2 = new Date(Date.UTC(2021, 6, 2, 11, 0));
+    var d = new Date(Date.UTC(2022, 6, 2, 17, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 17, 5));
     myDateTime(d, d2);
 </script>
 Emmanuelle Saillard
