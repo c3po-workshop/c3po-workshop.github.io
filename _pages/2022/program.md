@@ -53,8 +53,6 @@ contributed to our error-free submissions throughout several years,
 also discussing the challenges in achieving the correctness of
 correctness tools.
 
-Bio:
-
 Markus Schordan is a senior computer scientist at Lawrence Livermore
 National Laboratory in California.  He is author or co-author of 50+
 peer-refereed journal/conference/workshop publications, and served as
