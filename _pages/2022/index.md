@@ -31,7 +31,7 @@ The registration link will be available here in future.
 [Submission Website](https://easychair.org/conferences/?conf=c3po22)
 
 ### Venue
-TBD
+Congress Center, Hamburg, Germany
 
 ### Contact
 
