@@ -72,7 +72,6 @@ performance.
 ---
 ---
 
-## First Session
 <p>
 <script>
     var d = new Date(Date.UTC(2022, 6, 2, 13, 0));
@@ -96,7 +95,18 @@ Scaling bugs - errors that only manifest at large scale simulations, in terms of
 ---
 ---
 
-## Second Session
+### Break
+<p>
+<script>
+    var d = new Date(Date.UTC(2022, 6, 2, 14, 0));
+    var d2 = new Date(Date.UTC(2022, 6, 2, 14, 30));
+    myDateTime(d, d2);
+</script>
+</p>
+
+---
+---
+
 <p>
 <script>
     var d = new Date(Date.UTC(2022, 6, 2, 14, 30));
