@@ -87,10 +87,10 @@ Array contraction is a compilation optimization used to reduce the memory consum
 
 ---
 
-**Compiler-assisted Instrumentation Selection for Large-scale C++ Codes** \\
-**Sebastian Kreutzer**, Christian Iwainsky, Jan-Patrick Lehr and Christian Bischof
+**Detecting scale-induced overflow bugs in production HPC codes** \\
+**Justs Zarins**, Michele Weiland, Paul Bartholomew, Leigh Lapworth and Mark Parsons
 
-Code instrumentation is the primary method for collecting fine-grained performance data. As instrumentation introduces an inherent runtime overhead, it is essential to measure only those regions of the code which are most relevant to the analysis. In practice, the typical approach is to define filter files manually. Prior projects aim to automate this process using static analysis. Specifically, InstRO enables tailored instrumentation via sophisticated user-defined selection of code regions. However, due to the need for whole-program call-graph analysis, its application on large-scale scientific codes is currently impractical. In this work, we present the new instrumentation tool CaPI (short for "Compiler-assisted Performance Instrumentation"), which is targeted towards such large-scale applications. We demonstrate its application on the CFD framework OpenFOAM. Our evaluation shows that a hybrid approach of CaPI and existing profile-guided filtering outperforms profile-guided filtering alone. Furthermore, we identify correctness and usability issues and propose possible avenues to improve CaPI, as well as compiler-assisted instrumentation tools in general.
+Scaling bugs - errors that only manifest at large scale simulations, in terms of number of parallel workers or input size - are critical to detect early in the testing of HPC codes. If missed, these bugs can cause applications to either crash at runtime during production runs or, even worse, silently continue and corrupt results. This results in wasting vast amounts of resources and the crash might not provide any useful debugging information. Laguna et al presented a method for solving this in[1] using an approach where scale variables are traced throughout an application statically and potentially overflowing instructions are detected, with further refinements done by running a few small scale experiments. However, their algorithm is not able to trace multiple code patterns found in production HPC applications, for example code modularity, and has not been applied to Fortran applications. We present an extension to their algorithm which addresses these issues thus enabling us to find scaling bugs in complex real applications where they could not be found before. The key features that enable this are backward/forward tracing and optimistic GEP comparison.
 
 ---
 ---
@@ -115,10 +115,10 @@ Code instrumentation is the primary method for collecting fine-grained performan
 </script>
 </p>
 
-**Detecting scale-induced overflow bugs in production HPC codes** \\
-**Justs Zarins**, Michele Weiland, Paul Bartholomew, Leigh Lapworth and Mark Parsons
+**Compiler-assisted Instrumentation Selection for Large-scale C++ Codes** \\
+**Sebastian Kreutzer**, Christian Iwainsky, Jan-Patrick Lehr and Christian Bischof
 
-Scaling bugs - errors that only manifest at large scale simulations, in terms of number of parallel workers or input size - are critical to detect early in the testing of HPC codes. If missed, these bugs can cause applications to either crash at runtime during production runs or, even worse, silently continue and corrupt results. This results in wasting vast amounts of resources and the crash might not provide any useful debugging information. Laguna et al presented a method for solving this in[1] using an approach where scale variables are traced throughout an application statically and potentially overflowing instructions are detected, with further refinements done by running a few small scale experiments. However, their algorithm is not able to trace multiple code patterns found in production HPC applications, for example code modularity, and has not been applied to Fortran applications. We present an extension to their algorithm which addresses these issues thus enabling us to find scaling bugs in complex real applications where they could not be found before. The key features that enable this are backward/forward tracing and optimistic GEP comparison.
+Code instrumentation is the primary method for collecting fine-grained performance data. As instrumentation introduces an inherent runtime overhead, it is essential to measure only those regions of the code which are most relevant to the analysis. In practice, the typical approach is to define filter files manually. Prior projects aim to automate this process using static analysis. Specifically, InstRO enables tailored instrumentation via sophisticated user-defined selection of code regions. However, due to the need for whole-program call-graph analysis, its application on large-scale scientific codes is currently impractical. In this work, we present the new instrumentation tool CaPI (short for "Compiler-assisted Performance Instrumentation"), which is targeted towards such large-scale applications. We demonstrate its application on the CFD framework OpenFOAM. Our evaluation shows that a hybrid approach of CaPI and existing profile-guided filtering outperforms profile-guided filtering alone. Furthermore, we identify correctness and usability issues and propose possible avenues to improve CaPI, as well as compiler-assisted instrumentation tools in general.
 
 ---
 ---
