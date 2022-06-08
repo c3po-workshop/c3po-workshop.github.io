@@ -69,6 +69,8 @@ automatically analyzing programs, detecting bugs, aiding developers in
 writing correct programs, and optimizing programs to achieve high
 performance.
 
+*Slides can be found [here](http://dx.doi.org/10.13140/RG.2.2.35094.22083)*
+
 ---
 ---
 
