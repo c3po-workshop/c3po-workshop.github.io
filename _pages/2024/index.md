@@ -18,7 +18,7 @@ invited talks in this area.
 
 ### Registration
 
-The registration link will be available here in future.
+![Registration](https://www.isc-hpc.com/registration-2024.html)
 
 ### Important Dates
 
