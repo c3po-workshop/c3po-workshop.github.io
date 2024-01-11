@@ -30,9 +30,9 @@
      inkscape:window-height="1376"
      id="namedview4095"
      showgrid="false"
-     inkscape:zoom="0.056568542"
-     inkscape:cx="3349.9184"
-     inkscape:cy="7062.229"
+     inkscape:zoom="1.28"
+     inkscape:cx="5866.7969"
+     inkscape:cy="5708.9844"
      inkscape:window-x="1920"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -238,5 +238,83 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
        d="m 5102.7993,9734.1922 -2236.171,-4712.4898 1423.33,-1724.2529 2328.837,4237.6609 z"
        style="fill:#677821;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="path47344" />
+    <path
+       id="path19551-7"
+       style="fill:#447821;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 39911.095,-28952.067 -163.323,-344.184 214.609,-122.328 133.412,242.766 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40608.537,-28286.805 -173.065,-314.915 329.724,-478.289 131.596,238.191 v 390.708 z"
+       style="fill:#44aa00;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path41127-5"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40896.792,-28885.819 -118.133,-213.822 86.825,-125.947 31.308,17.846 z"
+       style="fill:#55d400;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path42313-9"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40767.186,-29120.33 -130.013,-235.322 209.799,119.586 z"
+       style="fill:#abc837;fill-opacity:1;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path42723-2"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40424.066,-28622.651 -302.699,-550.808 267.377,-323.906 213.063,121.447 151.949,275.027 z"
+       style="fill:#89a02c;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path44168-2"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40110.346,-29193.472 -129.511,-235.663 263.79,-150.361 125.381,71.467 z"
+       style="fill:#338000;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path44478-8"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40308.031,-28115.622 -84.693,-178.478 198.667,-288.181 168.098,305.879 z"
+       style="fill:#5aa02c;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path45295-9"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40244.663,-28079.496 -121.498,-69.255 86.297,-125.18 80.115,168.833 z"
+       style="fill:#008000;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path45896-7"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40104.607,-28159.257 -512.172,-291.937 v -81.51 l 313.788,-380.126 292.678,616.791 z"
+       style="fill:#445016;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path46724-3"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 39592.435,-28566.046 v -641.674 l 136.843,-78 166.896,351.719 z"
+       style="fill:#005500;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path47034-6"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
+    <path
+       d="m 40212.869,-28316.242 -291.677,-614.678 185.653,-224.904 303.764,552.743 z"
+       style="fill:#677821;stroke:none;stroke-width:7.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path47344-1"
+       inkscape:export-filename="/home/jaegerj/GITs/Work/C3PO/website/c3po-workshop.github.io/mstile-150x150.png"
+       inkscape:export-xdpi="512"
+       inkscape:export-ydpi="512" />
   </g>
 </svg>
