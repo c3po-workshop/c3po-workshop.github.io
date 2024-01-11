@@ -3,7 +3,7 @@ permalink: /2024/call
 ---
 
 ### Call for Submissions
-C3PO'24 Workshop - Third workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC
+C3PO'24 Workshop - Fourth workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
 <!-- Virtual event -->
 
