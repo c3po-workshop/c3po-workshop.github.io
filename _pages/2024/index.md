@@ -4,7 +4,7 @@ permalink: /2024/index
 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
-### C3PO'24: Compiler-assisted Correctness Checking and Performance Optimization for HPC
+### C3PO'24: Fourth workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC
 
 Held in Conjunction with ISC 2024.
 
