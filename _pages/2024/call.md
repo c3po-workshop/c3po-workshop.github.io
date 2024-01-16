@@ -67,3 +67,4 @@ Submission Website: Coming soon
 - Submission deadline: 1st March 2024 AOE
 - Paper notification: 1st April AOE
 - Camera-ready version: 17th June 2024
+- Workshop date: 16th May 2024

@@ -27,8 +27,6 @@ invited talks in this area.
 <a href="https://www.isc-hpc.com/registration-2024.html" target="_blank">https://www.isc-hpc.com/registration-2024.html</a> 
 
 
-<!--[Submission Website](https://easychair.org/conferences/?conf=c3po22) -->
-
 <h2>Venue</h2>
 Congress Center, Hamburg, Germany
 
