@@ -71,3 +71,4 @@ proceedings will be emailed to authors of accepted papers.
 - Submission deadline: TBD
 - Paper notification: TBD
 - Camera-ready version: TBD
+- Workshop date: 16th May 2024

@@ -27,7 +27,7 @@ invited talks in this area.
 - Submission deadline: TBD
 - Paper notification: TBD
 - Camera-ready version: TBD
-
+- Workshop date: 16th May 2024
 <!--[Submission Website](https://easychair.org/conferences/?conf=c3po22) -->
 
 ### Venue
