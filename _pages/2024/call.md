@@ -2,14 +2,8 @@
 permalink: /2024/call
 ---
 
-### Call for Submissions
-C3PO'24 Workshop - Fourth workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC
+# Call for Submissions
 
-<!-- Virtual event -->
-
-<!-- Friday, July 2nd, 2021 -->  
-
-Held in conjunction with ISC 2024.
 
 ### Abstract
 C3PO is a new workshop at the intersection of compilers/translators, HPC
@@ -61,13 +55,15 @@ workshop for printed proceedings. Authors of accepted papers will be required
 to sign the Springer copyright form. Instructions for preparing papers for the
 proceedings will be emailed to authors of accepted papers.
 
-<!-- [Submission Website](https://easychair.org/conferences/?conf=c3po21) -->
+<!-- [Submission Website](https://easychair.org/conferences/?conf=c3po21) 
 [Submission Website](https://easychair.org/conferences/?conf=c3po22)
+-->
+Submission Website: Coming soon
 
 
 ### Important Dates
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
-- Submission deadline: TBD
-- Paper notification: TBD
-- Camera-ready version: TBD
+- Submission deadline: 1st March 2024 AOE
+- Paper notification: 1st April AOE
+- Camera-ready version: 17th June 2024
