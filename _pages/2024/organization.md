@@ -2,18 +2,29 @@
 permalink: /2024/organization
 ---
 
-### Chairs
+### Steering Committee
 
-| Chair         | Name                  | Affiliation                                                            |
+
+
+
+
+| Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |
-| General       | Julien Jaeger         | French Alternative Energies and Atomic Energy Commission (CEA)         |
-| Associate     | Emmanuelle Saillard   | Inria Bordeaux Sud-Ouest                                               |
+| Julien Jaeger        | French Alternative Energies and Atomic Energy Commission (CEA)         |
+| Emmanuelle Saillard  | Inria                                                |
+| Anthony Skjellum     | University of Tennessee at Chattanooga |
+| Purushotham Bangalore | University of Alabama at Birmingham |
+| Peter Pirkelbauer	| Lawrence Livermore National Laboratory |
+| Peter Thoman		| University of Innsbruck		|
+
+
 
 ### Program Committee Members
 
 | Name                    | Affiliation                                     |
 | ----------------------: | ----------------------------------------------- |
 | Patrick Carribault      |  CEA                                            |
+| Jan-Patrick Lehr	  | AMD						    |
 
 <!--
 | Christina Peterson      |  University of Central Florida                  |

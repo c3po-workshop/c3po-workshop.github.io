@@ -6,7 +6,7 @@ permalink: /2024/index
 
 <h1>Welcome to the fourth workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC</h1>
 
-Held in Conjunction with ISC 2024, Hamburg, Germany
+<h3>Held in Conjunction with ISC 2024, Hamburg, Germany</h3>
 
 
 
@@ -26,9 +26,8 @@ invited talks in this area.
 <h2>Registration</h2>
 <a href="https://www.isc-hpc.com/registration-2024.html" target="_blank">https://www.isc-hpc.com/registration-2024.html</a> 
 
-
 <h2>Venue</h2>
-Congress Center, Hamburg, Germany
+<p>Congress Center, Hamburg, Germany. More information can be found <a href="https://www.isc-hpc.com/attendance-venue.html" target="_blank">here</a>.</p>
 
 </div>
 
