@@ -10,8 +10,8 @@ permalink: /2024/organization
 
 | Name                  | Affiliation                                                            |
 | ------------: | --------------------- | ---------------------------------------------------------------------- |
-| Julien Jaeger        | French Alternative Energies and Atomic Energy Commission (CEA)         |
-| Emmanuelle Saillard  | Inria                                                |
+| Emmanuelle Saillard **(General chair)**  | Inria                                                |
+| Julien Jaeger **(Associate chair)**       | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Anthony Skjellum     | University of Tennessee at Chattanooga |
 | Purushotham Bangalore | University of Alabama at Birmingham |
 | Peter Pirkelbauer	| Lawrence Livermore National Laboratory |

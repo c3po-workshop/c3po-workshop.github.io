@@ -64,7 +64,7 @@ Submission Website: Coming soon
 ### Important Dates
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
-- Submission deadline: 1st March 2024 AOE
-- Paper notification: 1st April AOE
-- Camera-ready version: 17th June 2024
-- Workshop date: 16th May 2024
+- Submission deadline: **1st March 2024 AOE**
+- Paper notification: **1st April AOE**
+- Camera-ready version: **17th June 2024**
+- Workshop date: **16th May 2024**

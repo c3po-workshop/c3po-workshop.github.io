@@ -41,7 +41,7 @@ invited talks in this area.
 
 ### Contact
 
-For queries relating to the workshop, please contact julien.jaeger at cea.fr or emmanuelle.saillard at inria.fr.
+For queries relating to the workshop, please contact Emmanuelle Saillard (emmanuelle.saillard at inria.fr) or Julien Jaeger (julien.jaeger at cea.fr).
 
 
 
