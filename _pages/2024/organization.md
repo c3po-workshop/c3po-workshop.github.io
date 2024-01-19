@@ -25,7 +25,8 @@ permalink: /2024/organization
 | ----------------------: | ----------------------------------------------- |
 | Patrick Carribault      |  CEA                                            |
 | Jan-Patrick Lehr	  | AMD						    |
-
+| Markus Schordan	  | Google					    |
+| Liao Chunhua 		  | LLNL					    |
 <!--
 | Christina Peterson      |  University of Central Florida                  |
 
