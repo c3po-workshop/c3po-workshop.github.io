@@ -2,14 +2,17 @@
 permalink: /2024/organization
 ---
 
-### Steering Committee
+<p></p>
+<p></p>
+
+## Steering Committee
 
 
 
 
 
 | Name                  | Affiliation                                                            |
-| ------------: | --------------------- | ---------------------------------------------------------------------- |
+| ------------ | --------------------- | ---------------------------------------------------------------------- |
 | Emmanuelle Saillard **(General chair)**  | Inria                                                |
 | Julien Jaeger **(Associate chair)**       | French Alternative Energies and Atomic Energy Commission (CEA)         |
 | Anthony Skjellum     | University of Tennessee at Chattanooga |
@@ -19,14 +22,20 @@ permalink: /2024/organization
 
 
 
-### Program Committee Members
+## Program Committee Members
+
+
 
 | Name                    | Affiliation                                     |
-| ----------------------: | ----------------------------------------------- |
+| ---------------------- | ----------------------------------------------- |
 | Patrick Carribault      |  CEA                                            |
 | Jan-Patrick Lehr	  | AMD						    |
 | Markus Schordan	  | Google					    |
 | Liao Chunhua 		  | LLNL					    |
+| Christian Bischof       |  TU Darmstadt                                   |
+| Aravind Sukumaran Rajam | Meta					    |
+| Pei-Hung Lin	          | LLNL					    |
+
 <!--
 | Christina Peterson      |  University of Central Florida                  |
 

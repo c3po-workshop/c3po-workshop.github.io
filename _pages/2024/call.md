@@ -2,10 +2,14 @@
 permalink: /2024/call
 ---
 
+
+<p></p>
+<p></p>
+
 # Call for Submissions
 
 
-### Abstract
+## Abstract
 C3PO is a new workshop at the intersection of compilers/translators, HPC
 middleware, and HPC applications. Practical compiler-enabled programming
 environments, applied analysis methodologies, and end-to-end toolchains are
@@ -26,7 +30,7 @@ applications of such technologies to derive enhanced utility in parallel
 programs that are generalizable beyond a single case study or narrow
 application.
 
-### Topics of Interest (but not limited to)
+## Topics of Interest (but not limited to)
 - Automatic parallelization
 - Compilation for heterogeneous systems
 - Compiler enabled optimization
@@ -37,13 +41,16 @@ application.
 - Source-to-source analysis/transformations
 - Static analysis
 - Static/dynamic interaction
+- Compiler-based tooling for parallel application development 
+- Artificial Intelligence applied to compilation techniques 
+
 <!-- - Compiler-based tooling for parallel application development -->
 
-### Submissions
-C3PO solicits two kinds of papers. Full papers present novel and original
-research and are limited to 12 pages in Springer LNCS format (not including references). Short papers
+## Submissions
+C3PO solicits two kinds of papers. **Full papers** present novel and original
+research and are limited to **12 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a> (not including references). **Short papers**
 report on interesting new ideas, work with promising/early results, or
-empirical studies and are limited to 6 pages in Springer LNCS format.
+empirical studies and are limited to **6 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a>.
 
 The review process is double blind. Each submission will receive at least three
 reviews.
@@ -55,13 +62,16 @@ workshop for printed proceedings. Authors of accepted papers will be required
 to sign the Springer copyright form. Instructions for preparing papers for the
 proceedings will be emailed to authors of accepted papers.
 
+
+Please, check the Springer <a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="blank">Code of Conduct</a>.
+
 <!-- [Submission Website](https://easychair.org/conferences/?conf=c3po21) 
 [Submission Website](https://easychair.org/conferences/?conf=c3po22)
 -->
 Submission Website: Coming soon
 
 
-### Important Dates
+## Important Dates
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 - Submission deadline: **1st March 2024 AOE**

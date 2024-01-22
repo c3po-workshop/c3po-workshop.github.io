@@ -5,7 +5,17 @@ permalink: /2024/program
 <script type="text/javascript" src="/assets/js/timeconvert.js"></script>
 
 
+<p></p>
+<p></p>
+
 # C3PO'24 Program
+
+
+
+Please feel free to use the ISC <a href="https://speaker.isc-hpc.com/files/isc_events/documents/ISC2024/ISC2024_Title-Slide.jpg" target="blank">title slide</a> or presentation <a href="https://speaker.isc-hpc.com/files/isc_events/documents/ISC2024/ISC2024_Zoom-Background.jpg" target="blank">background</a> in your presentation materials.
+
+<p></p>
+The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congress Center Hamburg.
 
 
 
@@ -44,7 +54,6 @@ permalink: /2024/program
           <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">TBD</div>
         </td>
       </tr>
--->
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>TBD</p>
@@ -53,7 +62,6 @@ permalink: /2024/program
           <div style="font-weight:bold;font-size:1.10em">TBD</div>
         </td>
       </tr>
-<!--
 <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>10:45 – 12:30</p>
@@ -81,7 +89,6 @@ permalink: /2024/program
           </tr></tbody></table>
         </td>
       </tr>
--->
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>TBD</p>
@@ -90,7 +97,11 @@ permalink: /2024/program
           <div style="font-weight:bold;font-size:1.10em">Closing</div>
         </td>
       </tr>
+-->
 </tbody></table>
 </div>
 </div>
 </div>
+
+
+Coming soon
