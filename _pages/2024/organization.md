@@ -35,6 +35,10 @@ permalink: /2024/organization
 | Christian Bischof       |  TU Darmstadt                                   |
 | Aravind Sukumaran Rajam | Meta					    |
 | Pei-Hung Lin	          | LLNL					    |
+| Amalee Wilson		  | Stanford University				    |
+| Benson Muite	          | Kichakato Kizito				    |
+
+
 
 <!--
 | Christina Peterson      |  University of Central Florida                  |
