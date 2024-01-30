@@ -48,7 +48,7 @@ application.
 
 ## Submissions
 C3PO solicits two kinds of papers. **Full papers** present novel and original
-research and are limited to **12 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a> (not including references). **Short papers**
+research and are limited to **12 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a> (including references and appendices). **Short papers**
 report on interesting new ideas, work with promising/early results, or
 empirical studies and are limited to **6 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a>.
 
