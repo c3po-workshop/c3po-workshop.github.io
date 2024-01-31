@@ -27,16 +27,17 @@ permalink: /2024/organization
 
 
 | Name                    | Affiliation                                     |
-| ---------------------- | ----------------------------------------------- |
-| Patrick Carribault      |  CEA                                            |
-| Jan-Patrick Lehr	  | AMD						    |
-| Markus Schordan	  | Google					    |
+| ----------------------- | ----------------------------------------------- |
+| Christian Bischof       | TU Darmstadt                                    |
+| Patrick Carribault      | CEA                                             |
 | Liao Chunhua 		  | LLNL					    |
-| Christian Bischof       |  TU Darmstadt                                   |
-| Aravind Sukumaran Rajam | Meta					    |
+| Jan-Patrick Lehr	  | AMD						    |
 | Pei-Hung Lin	          | LLNL					    |
-| Amalee Wilson		  | Stanford University				    |
+| Dorian Leroy            | CEA                                             |
 | Benson Muite	          | Kichakato Kizito				    |
+| Markus Schordan	  | Google					    |
+| Aravind Sukumaran Rajam | Meta					    |
+| Amalee Wilson		  | Stanford University				    |
 
 
 
