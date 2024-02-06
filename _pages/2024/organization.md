@@ -37,7 +37,8 @@ permalink: /2024/organization
 | Pei-Hung Lin	          | LLNL					    |
 | Amalee Wilson		  | Stanford University				    |
 | Benson Muite	          | Kichakato Kizito				    |
-
+| Philippe Virouleau	  | Inria    	 				    |
+| Alexander Hueck 	  | TU Darmstadt                                   |
 
 
 <!--
