@@ -36,8 +36,10 @@ permalink: /2024/organization
 | Pei-Hung Lin	          | LLNL					    |
 | Dorian Leroy            | CEA                                             |
 | Benson Muite	          | Kichakato Kizito				    |
+| Sara Royuela	          | BSC						    |
 | Markus Schordan	  | Google					    |
 | Aravind Sukumaran Rajam | Meta					    |
+| Ali Tehrani		  | Iowa State University		            |
 | Philippe Virouleau	  | Inria    	 				    |
 | Amalee Wilson		  | Stanford University				    |
 
