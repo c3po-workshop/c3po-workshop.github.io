@@ -39,12 +39,10 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
  </td>
  <td style="padding-left:4px;padding-right:4px;width:900px">
 <!--
--->
   <div style="font-weight:bold;font-size:1.10em">Opening</div>
  <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard</div>
  </td>
 </tr>
-<!--
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>TBD</p>
@@ -97,11 +95,11 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
           <div style="font-weight:bold;font-size:1.10em">Closing</div>
         </td>
       </tr>
--->
 </tbody></table>
 </div>
 </div>
 </div>
+-->
 
 
 Coming soon
