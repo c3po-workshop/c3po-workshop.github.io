@@ -31,65 +31,90 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
         <td colspan="3"></td>
       </tr>
  <tr style="font-weight:bold;font-size:1.5em">
-        <td colspan="4">Thursday, May 16th</td>
+        <td colspan="4">Thursday, May 16th - Morning</td>
  </tr>
  <tr style="height:40px">
  <td style="border-right:1px solid gray;text-align:center;width:120px">
-  <p>TBD</p>
+  <p>9:00 - 9:05</p>
  </td>
  <td style="padding-left:4px;padding-right:4px;width:900px">
-<!--
   <div style="font-weight:bold;font-size:1.10em">Opening</div>
  <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard</div>
  </td>
 </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>TBD</p>
+          <p>9:05 - 10:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk - chaired by TBD</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk - Vincent Loechner, University of Strasbourg, France</div>
+	  <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic;font-weight:bold">Optimized Code Generation of Electrophysiology Kernels using MLIR</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">MLIR is a novel compiler technology that permits to take control of the compiler IR in an easy and flexible way: the Multi-Level Intermediate Representation can mix various IRs to (1) represent
+your input program and (2) control the compiler code generation, at a small development cost. MLIR outputs LLVM IR that can be adapted to the architectural needs for better performance, without having to write complex LLVM passes and insert them into the pass manager.
+This talk will relate our experience with MLIR in the MICROCARD European project (microcard.eu), to optimize a code of a real-life application: the electrophysiology kernels from the openCARP cardiac simulator (opencarp.org). The ionic currents crossing the membranes of the heart cells are described using mathematical modelizations written in a domain specific language (DSL). These DSL programs were originally converted into C code by a python script, and compiled by a standard compiler. We modified this script to generate MLIR code, and generate both very efficient parallel and vector CPU codes, and GPU codes (CUDA for Nvidia and ROCm for AMD GPUs). I will present the MLIR dialects that we used for this, the MLIR transformation passes, and the performance results of our optimized code.</div>
         </td>
       </tr>
-      <tr style="height:40px">
+<tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>TBD</p>
-        </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">TBD</div>
-        </td>
-      </tr>
-<tr style="height:40px;background-color: #f2f2f2">
-        <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>10:45 – 12:30</p>
+          <p>10:00 – 11:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Best paper presentation: MPI Application Binary Interface Standardization [<a href="./assets/slides/Hammond_eurompi23.pdf" target="_blank">Slide</a>]</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jeff Hammond</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Leveraging Static Analysis to Accelerate Dynamic Race Detection for RMA Programs </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Simon Schwitanski</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Frustrated With MPI+Threads? Try MPIxThreads! [<a href="./assets/slides/Zhou_eurompi23.pdf" target="_blank">Slide</a>]</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Hui Zhou</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Static-Dynamic analysis for Performance and Accuracy of Data Race Detection in MPI One-Sided Programs</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Radjasouria Vinayagame</div>
               </td>
             </tr>
-            <tr>
-              <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI [<a href="./assets/slides/Suggs_eurompi23.pdf" target="_blank">Slide</a>]</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Evan Suggs</div>
-              </td>
-          </tr></tbody></table>
+	</tbody></table>
         </td>
       </tr>
-      <tr style="height:40px">
+      <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>TBD</p>
+          <p>11:00 - 11:30</p>
+        </td>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Coffee break</div>
+        </td>
+      </tr>
+<tr style="height:40px">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>11:30 – 13:00</p>
+        </td>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by TBD</div>
+          <table style="border:0px; width:100%"><tbody>
+            <tr>
+              <td>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Compiler-Based Precalculation of MPI Message Envelopes </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Tim Jammer</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Augmentation of MPI Traces Using Selective Instrumentation</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Sebastian Kreutzer</div>
+              </td>
+            </tr>
+            <tr>
+              <td>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Adaptive parallelism in OpenMP through Dynamic Variants</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Adrian Munera</div>
+              </td>
+            </tr>
+	</tbody></table>
+        </td>
+      </tr>
+      <tr style="height:40px;background-color: #f2f2f2">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>13:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Closing</div>
@@ -99,7 +124,5 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
 </div>
 </div>
 </div>
--->
 
 
-Coming soon
