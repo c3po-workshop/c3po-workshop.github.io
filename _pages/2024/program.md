@@ -35,7 +35,7 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
  </tr>
  <tr style="height:40px">
  <td style="border-right:1px solid gray;text-align:center;width:120px">
-  <p>9:00 - 9:05</p>
+  <p>9:00 - 9:05 am</p>
  </td>
  <td style="padding-left:4px;padding-right:4px;width:900px">
   <div style="font-weight:bold;font-size:1.10em">Opening</div>
@@ -44,7 +44,7 @@ The workshop rooms are located on the second floor, rooms Y1-Y12, of the Congres
 </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>9:05 - 10:00</p>
+          <p>9:05 - 10:00 am</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Invited talk - Vincent Loechner, University of Strasbourg, France</div>
@@ -56,7 +56,7 @@ This talk will relate our experience with MLIR in the MICROCARD European project
       </tr>
 <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>10:00 – 11:00</p>
+          <p>10:00 – 11:00 am</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by TBD</div>
@@ -64,13 +64,13 @@ This talk will relate our experience with MLIR in the MICROCARD European project
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Leveraging Static Analysis to Accelerate Dynamic Race Detection for RMA Programs </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Simon Schwitanski</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Simon Schwitanski, RWTH</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Static-Dynamic analysis for Performance and Accuracy of Data Race Detection in MPI One-Sided Programs</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Radjasouria Vinayagame</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Radjasouria Vinayagame, Eviden</div>
               </td>
             </tr>
 	</tbody></table>
@@ -78,7 +78,7 @@ This talk will relate our experience with MLIR in the MICROCARD European project
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>11:00 - 11:30</p>
+          <p>11:00 - 11:30 am</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Coffee break</div>
@@ -86,7 +86,7 @@ This talk will relate our experience with MLIR in the MICROCARD European project
       </tr>
 <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>11:30 – 13:00</p>
+          <p>11:30 am – 1:00 pm</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by TBD</div>
@@ -94,19 +94,19 @@ This talk will relate our experience with MLIR in the MICROCARD European project
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Compiler-Based Precalculation of MPI Message Envelopes </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Tim Jammer</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Tim Jammer, TU Darmstadt</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Augmentation of MPI Traces Using Selective Instrumentation</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Sebastian Kreutzer</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Sebastian Kreutzer, TU Darmstadt</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Adaptive parallelism in OpenMP through Dynamic Variants</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Adrian Munera</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Adrian Munera, BSC</div>
               </td>
             </tr>
 	</tbody></table>
@@ -114,7 +114,7 @@ This talk will relate our experience with MLIR in the MICROCARD European project
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>13:00</p>
+          <p>1:00 pm</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Closing</div>
