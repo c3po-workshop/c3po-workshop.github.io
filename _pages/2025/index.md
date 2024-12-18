@@ -12,10 +12,14 @@ permalink: /2025/index
 <h3>Held in Conjunction with ISC 2025, Hamburg, Germany</h3>
 
 
-<!--
-![ISC2024](/assets/ISC2024_Logo.png){: width="30%" height="auto" .alight-right}
+
+<!--![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}-->
 {:style="clear: right"}
--->
+<a href="https://www.isc-hpc.com">![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}
+{:style="clear: right"}
+</a>
+ 
+
 
 The goal of the C3PO workshop is to bring together a diverse group of
 researchers to discuss their latest research results on compilation techniques
