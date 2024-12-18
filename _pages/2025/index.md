@@ -13,11 +13,10 @@ permalink: /2025/index
 
 
 
-<!--![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}-->
-{:style="clear: right"}
+<!--![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}
+{:style="clear: right"}-->
 <a href="https://www.isc-hpc.com">![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}
-{:style="clear: right"}
-</a>
+{:style="clear: right"}</a>
  
 
 
