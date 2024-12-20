@@ -9,14 +9,14 @@ permalink: /2025/index
 
 <h1>Welcome to the fifth workshop on Compiler-assisted Correctness Checking and Performance Optimization for HPC</h1>
 
-<h3>Held in Conjunction with ISC 2025, Hamburg, Germany</h3>
+<h3>Held in Conjunction with ISC 2025, June 13-16, Hamburg, Germany</h3>
 
 
 
 <!--![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}
 {:style="clear: right"}-->
 <a href="https://www.isc-hpc.com">![ISC2025](/assets/ISC2025_Logo.png){: width="30%" height="auto" .alight-right}
-{:style="clear: right"}</a>
+</a>
  
 
 
