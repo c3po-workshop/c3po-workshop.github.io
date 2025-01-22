@@ -10,7 +10,7 @@ permalink: /2025/call
 
 
 ## Abstract
-C3PO is a new workshop at the intersection of compilers/translators, HPC
+C3PO is a workshop at the intersection of compilers/translators, HPC
 middleware, and HPC applications. Practical compiler-enabled programming
 environments, applied analysis methodologies, and end-to-end toolchains are
 crucial to performance portability in the exascale era. The workshop brings
@@ -70,13 +70,14 @@ Please, check the Springer <a href="https://www.springernature.com/gp/authors/bo
 [Submission Website](https://easychair.org/conferences/?conf=c3po22)
 Submission Website: <a href="https://easychair.org/conferences/?conf=c3po24" target="blank">https://easychair.org/conferences/?conf=c3po24</a>
 -->
+[Submission Website](https://easychair.org/conferences/?conf=c3po25)
 
 ## Important Dates
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 
-- Submission deadline: **TBD (End of February)**
-- Paper notification: **TBD (End of March)**
+- Submission deadline: **21st February 2025 AoE**
+- Paper notification: **24th March 2025**
 - Camera-ready version: **16th May 2025**
 - Workshop date: **16th May 2025**
 

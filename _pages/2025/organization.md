@@ -24,30 +24,25 @@ permalink: /2025/organization
 
 ## Program Committee Members
 
-TBD
-
-<!--
-
-| Name                    | Affiliation                                     |
-| ----------------------- | ----------------------------------------------- |
-| Christian Bischof       | TU Darmstadt                                    |
-| Patrick Carribault      | CEA                                             |
-| Liao Chunhua 		      | LLNL				                    	    |
-| Jan-Patrick Lehr	      | AMD						                        |
-| Pei-Hung Lin	          | LLNL					                        |
-| Dorian Leroy            | CEA                                             |
-| Benson Muite	          | Kichakato Kizito				                |
-| Markus Schordan	      | Google					                        |
-| Aravind Sukumaran Rajam | Meta					                        |
-| Amalee Wilson		      | Stanford University				                |
 
 
 
-| Christina Peterson      |  University of Central Florida                  |
 
-| Joachim Protze          |  RWTH Aachen University                         |
+| Name                    | Affiliation                       |
+| ----------------------- | --------------------------------- |
+| Christophe Alias        | ENS Lyon                          |
+| Christian Bischof       | TU Darmstadt                      |
+| Patrick Carribault      | CEA                               |
+| Liao Chunhua 		      | LLNL				              |
+<!--| Jan-Patrick Lehr	      | AMD						          |-->
+| Pei-Hung Lin	          | LLNL					          |
+| Dorian Leroy            | CEA                               |
+| Benson Muite	          | Kichakato Kizito				  |
+| Sara Royuela            | BSC                               |
+<!--| Markus Schordan	      | Google					          |
+| Aravind Sukumaran Rajam | Meta					          |
+| Ali Tehrani             |                                   |-->
+| Mohit Tekriwal          |                                   |
+<!--| Philippe Virouleau      | Inria                             |-->
+| Amalee Wilson		      | Stanford University			      |
 
-| Prema Soundararajan     |  University of Alabama at Birmingham            |
-
-| Christian Bischof       |  TU Darmstadt                                   |
--->
