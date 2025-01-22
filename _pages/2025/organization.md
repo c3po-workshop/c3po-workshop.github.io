@@ -38,7 +38,7 @@ permalink: /2025/organization
 | Dorian Leroy            | CEA                               |
 | Benson Muite	          | Kichakato Kizito				  |
 | Sara Royuela            | BSC                               |
-| Mohit Tekriwal          |                                   |
+| Mohit Tekriwal          | LLNL                              |
 | Amalee Wilson		      | Stanford University			      |
 
 <!-- | Jan-Patrick Lehr	      | AMD						          | -->
