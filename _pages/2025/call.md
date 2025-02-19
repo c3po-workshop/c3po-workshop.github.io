@@ -76,7 +76,7 @@ Submission Website: <a href="https://easychair.org/conferences/?conf=c3po24" tar
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 
-- Submission deadline: **21st February 2025 AoE**
+- Submission deadline: **~~21st February 2025 AoE~~ 10th March 2025 AOE (Final extension)**
 - Paper notification: **24th March 2025**
 - Camera-ready version: **16th May 2025**
 - Workshop date: **13th June 2025**
