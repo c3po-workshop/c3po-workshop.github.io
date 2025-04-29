@@ -10,7 +10,7 @@ permalink: /2025/program
 
 # C3PO'25 Program
 
-(in construction)
+<!-- (in construction) -->
 
 
 <p></p>
@@ -98,12 +98,12 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Speculative Recursion Unrolling</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: TBD</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: Tim Heldmann, TU Darmstadt</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">A case for compiler driven code generation for core-adjacent accelerators</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving compiler support for SIMD offload using Arm Streaming SVE</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: TBD</div>
               </td>
             </tr>
