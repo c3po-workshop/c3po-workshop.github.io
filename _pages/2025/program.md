@@ -92,7 +92,7 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">CGPatch: Streamlining Static Call Graph Validation Using Selective Instrumentation</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: TBD</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: Sebastian Kreutzer, TU Darmstadt</div>
               </td>
             </tr>
             <tr>
