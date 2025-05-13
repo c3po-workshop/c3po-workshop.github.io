@@ -57,12 +57,12 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
           <p>10:00 – 11:00 am</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session - chaired by Julien Jaeger</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">From C to Rust: Evaluating LLM Capabilities in Transpilation through Compilation Errors</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: TBD</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: Andrea Valenzuela, BSC </div>
               </td>
             </tr>
             <tr>
