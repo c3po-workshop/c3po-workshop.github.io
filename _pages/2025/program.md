@@ -44,7 +44,7 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
           <p>9:05 - 10:00 am</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk - Johannes Doerfert, Lawrance Livermore National Laboratory, USA</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk - Johannes Doerfert, Lawrence Livermore National Laboratory, USA</div>
 	  <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic;font-weight:bold">Title : TBD</div>
 <!--          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">MLIR is a novel compiler technology that permits to take control of the compiler IR in an easy and flexible way: the Multi-Level Intermediate Representation can mix various IRs to (1) represent
  your input program and (2) control the compiler code generation, at a small development cost. MLIR outputs LLVM IR that can be adapted to the architectural needs for better performance, without having to write complex LLVM passes and insert them into the pass manager.
