@@ -68,7 +68,7 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: Peter Pirkerlbauer, Lawrence Livermore National Laboratory </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Speaker: Peter Pirkelbauer, Lawrence Livermore National Laboratory </div>
               </td>
             </tr>
 	</tbody></table>
