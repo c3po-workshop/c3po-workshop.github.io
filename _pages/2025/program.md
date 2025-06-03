@@ -47,11 +47,12 @@ The workshop room is located on the first floor, Hall X10, of the Congress Cente
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Invited talk - Johannes Doerfert, Lawrence Livermore National Laboratory </div>
 	  <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic;font-weight:bold">Title : LLVM/Offload --- R&D in the Open </div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">The LLVM/Offload project aims to bring performance portability and language interoperability to the HPC ecosystem and beyond.
+<!--          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">The LLVM/Offload project aims to bring performance portability and language interoperability to the HPC ecosystem and beyond.
 With a single offloading backend, all frontend languages can share the features, performance improvements, portability enhancements, and even operate within a single application seamlessly.
 In this talk we will look at LLVM/Offload, what it is, the status, ongoing work, and our roadmap for future improvements.
 Beyond classical optimizations and portability, we will also look at user-facing features for debugging, tuning, profiling, and correctness checking.
 In the end, the audience will have a better idea how a variety of efforts, from various parties around the world, is orchestrated in the open to build a better HPC ecosystem for all of us.</div>
+-->
         </td>
       </tr>
 <tr style="height:40px">
