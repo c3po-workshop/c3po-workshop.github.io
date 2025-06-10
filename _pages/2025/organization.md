@@ -34,14 +34,16 @@ permalink: /2025/organization
 | Christian Bischof       | TU Darmstadt                      |
 | Patrick Carribault      | CEA                               |
 | Liao Chunhua 		      | LLNL				              |
-| Pei-Hung Lin	          | LLNL					          |
+| Jan-Patrick Lehr        | AMD                               |
+| Alexander Hück          | TU Darmstadt                      |
 | Dorian Leroy            | CEA                               |
+| Pei-Hung Lin	          | LLNL					          |
+| Kewen Meng              | AMD                               |
 | Benson Muite	          | Kichakato Kizito				  |
 | Sara Royuela            | BSC                               |
 | Mohit Tekriwal          | LLNL                              |
 | Amalee Wilson		      | Stanford University			      |
 
-<!-- | Jan-Patrick Lehr	      | AMD						          | -->
 <!-- | Markus Schordan	      | Google					          |
 | Aravind Sukumaran Rajam | Meta					          |
 | Ali Tehrani             |                                   | -->
