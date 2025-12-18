@@ -1,3 +1,3 @@
 ---
-redirect_to: /2025/index
+redirect_to: /2026/index
 ---
