@@ -46,13 +46,13 @@ application.
 
 ## Submissions
 
-<!--
+
 C3PO solicits two kinds of papers. **Full papers** present novel and original
 research and are limited to **12 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a> (including references and appendices). **Short papers**
 report on interesting new ideas, work with promising/early results, or
 empirical studies and are limited to **6 pages** in <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" target="blank">Springer LNCS format</a>.
 
-The review process is double blind. Each submission will receive at least three
+The review process is single blind. Each submission will receive at least three
 reviews.
 
 Papers must be submitted in PDF format on the submission website. The
@@ -65,8 +65,8 @@ proceedings will be emailed to authors of accepted papers.
 
 Please, check the Springer <a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct" target="blank">Code of Conduct</a>.
 
-[Submission Website](https://easychair.org/conferences/?conf=c3po25)
--->
+[Submission Website](https://ssl.linklings.net/conferences/isc_hpc/?page=Submit&id=6thworkshoponCompilerassistedCorrectnessCheckingandPerformanceOptimizationforHPCSubmission&site=ischpc2026)
+
 
 ## Important Dates
 - Submission deadline: 9th March 2026 AOE 
