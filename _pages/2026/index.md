@@ -32,7 +32,7 @@ invited talks in this area.
 <a href="https://www.isc-hpc.com/registration-2024.html" target="_blank">https://www.isc-hpc.com/registration-2024.html</a> 
 -->
 <h2>Venue</h2>
-<p>Congress Center, Hamburg, Germany. More information can be found <a href="https://www.isc-hpc.com/attendance-venue.html" target="_blank">here</a>.</p>
+<p>Congress Center, Hamburg, Germany. More information can be found <a href="https://isc-hpc.com/attendance/" target="_blank">here</a>.</p>
 
 </div>
 
