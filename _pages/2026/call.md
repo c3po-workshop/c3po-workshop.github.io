@@ -69,7 +69,7 @@ Please, check the Springer <a href="https://www.springernature.com/gp/authors/bo
 
 
 ## Important Dates
-- Submission deadline: 9th March 2026 AOE 
+- Submission deadline: **~~9th March 2026 AoE~~  16th March 2026 AOE (Final extension)** 
 - Paper notification: 14th April 2026
 - Camera-ready version: 26th May 2026
 - Workshop date: **26th June 2026**

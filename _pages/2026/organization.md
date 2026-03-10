@@ -28,20 +28,23 @@ permalink: /2026/organization
 <!--
 
 <! C3PO 2025 committee list>
+| Liao Chunhua 		      | LLNL				              |
+| Jan-Patrick Lehr        | AMD                               |
+| Sara Royuela            | BSC                               |
+| Dorian Leroy            | CEA                               |
+| Amalee Wilson		      | Stanford University			      |
+-->
+
 | Name                    | Affiliation                       |
 | ----------------------- | --------------------------------- |
 | Christophe Alias        | ENS Lyon                          |
 | Christian Bischof       | TU Darmstadt                      |
 | Patrick Carribault      | CEA                               |
-| Liao Chunhua 		      | LLNL				              |
-| Jan-Patrick Lehr        | AMD                               |
 | Alexander Hück          | TU Darmstadt                      |
-| Dorian Leroy            | CEA                               |
 | Pei-Hung Lin	          | LLNL					          |
 | Kewen Meng              | AMD                               |
 | Benson Muite	          | Kichakato Kizito				  |
-| Sara Royuela            | BSC                               |
+| Markus Schordan         | Independent                              |
+| Vidush Singhal          | Purdue University                  |
 | Mohit Tekriwal          | LLNL                              |
-| Amalee Wilson		      | Stanford University			      |
 
--->
